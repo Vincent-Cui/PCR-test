@@ -1,387 +1,178 @@
-﻿提交者（自动）,提交时间（自动）,所在地区（必填）,检测机构名称全称（必填）,完整地址（包括邮编）（必填）,检测机构电话,检测类型（必填）,做检测时间,出报告时间,出报告耗时（天）,提交核酸码的时间,获得核酸码的时间,核酸码有效期,需要医疗保险？,无医保需要付费,测试总花费,是否需要预约,其他注意事项,,,,,,,,,
+﻿提交者（自动）,提交时间（自动）,所在地区,检测机构名称全称,完整地址（包括邮编）,检测机构电话,检测类型,做检测时间,出报告时间,出报告耗时（天）,提交核酸码的时间,获得核酸码的时间,核酸码有效期,需要医疗保险？,无医保需要付费,测试总花费,是否需要预约,其他注意事项
 ,,加利福尼亚 洛杉矶,123 Medical Group,"18800 Amar Rd A8, Walnut, CA 91789",(626)593-1233,"核酸测试 （Nucleic acid test）, 
 抗体测试（AntiBodies)",当天中午12点之前,次日早上10点之前,1,"1）说中文，每天营业，每天都出报告，来之前请预约
 2）收费为225美金 （10月1日-11月30日间，提及“北美票帝可优惠5美金”）
 3）可出具Superbill，由客人自行申报健康保险
-4）可做加急检测，6小时出报告，须支付加急费",,,,,,,,,,,,,,,,
-,,,,,,,当天下午5点之前,次日下午3点之前,1,,,,,,,,,,,,,,,,,
+4）可做加急检测，6小时出报告，须支付加急费",,,,,,,
+,,,,,,,当天下午5点之前,次日下午3点之前,1,,,,,,,,
 ,,"上门检测服务 
 （纽约，费城，波士顿，芝加哥，亚特兰大，华盛顿特区，佛罗里达州，得克萨斯州）",纵横集团联合美国FDA CLIA Approved实验室,上门检测（扫码预约）,646-591-4171,核酸测试 （Nucleic acid test）,7x24按需预约,"第二天下午6点前
 （或24小时之内）",1,"1）说中文，7x24预约，7x24上门服务，第二天保证出报告，让您“测一次就够了”
 2）收费为299美金/人起 
-3）可做当日加急检测",,,,,,,,,,,,,,,,
-momo,2020/9/10 5:28:32,加拿大，温哥华,Tri-Cities COVID-19 & Influenza Like Illness Assessment Clinic,"Unit A120 - 2099 Lougheed Highway, Port Coquitlam, BC",236-996-9000,核酸测试 （Nucleic acid test）,2020/9/7 2:20,2020/9/9 2:00,,,,,否,需要,350,需要，建议预约,【10/1更新：请确认是否接受预约】在建筑物内庭，外面有指示牌，机构不接受电话，可以发邮件covidtravel@integratedwellness.clinic，官网上有很详细的整套测试说明。[已按要求修正],,,,,,,,,
-R,2020/9/22 22:38:09,加拿大，渥太华,COVID-19 Assessment Centre (Brewer Park Arena),"151 Brewer way, Ottawa, ON K1S 5T1",无,核酸测试 （Nucleic acid test）,2020/9/15 11:03,2020/9/17 13:27,,2020/9/17 14:30,2020/9/18 10:26,,是,不需要,0,不需要，walk in 即可,最近检测人数急剧增多，注意官网上（https://www.ottawapublichealth.ca/en/shared-content/assessment-centres.aspx）的最新open时间和公告哦。户外排队的时候会有点冷，很多人提早来的，所以室外至少一个小时，室内排队也是大概一个多小时，越晚约慢，family与单人检测的队伍是分开的。录入信息时和大夫说一下检测是因为travel回国，他们会给你一些登机需要的资料。大夫当时只给我捅了鼻子一侧10s。提交完微信核酸检测结果，未通过审核，原因是目前加拿大直飞国内不需要要HS码，只要纸质报告即可。现在已经在国内隔离了，祝福大家一切顺利呀！,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-LUCKY,2020/9/28 8:35:20,全美都可以,Picture Genetics,邮寄到加州,,核酸测试 （Nucleic acid test）,2020/9/16 17:00,2020/9/18 1:18,,2020/9/18 6:00,2020/9/18 13:00,2020/9/22 14:59,否,需要,119,需要，建议预约,这个结果出的太快了 建议比三天提前一天寄出就好！,,,,,,,,,
-Kelly🥳,2020/8/30 3:45:05,宾夕法尼亚州，费城,cvs,"1901 WEST OREGON AVENUE, PHILADELPHIA, PA 19146",,核酸测试 （Nucleic acid test）,2020/8/26 3:00,2020/8/29 23:00,,,,,否,不需要,0,需要，建议预约,需要开车去做检测,,,,,,,,,
-邓邓,2020/8/29 12:11:21,宾夕法尼亚州，费城,Rite Aid,"1856 N Broad St, Lansdale, PA 19446",(215) 412-9375,核酸测试 （Nucleic acid test）,2020/8/25 16:30,2020/8/27 17:25,,2020/8/28 17:15,2020/8/28 21:15,2020/9/4 9:59,否,不需要,0,需要，建议预约,请注意我在此表中填写的核酸码提交时间是按另一次测试提交的，本次结果最终未提交。,,,,,,,,,
-五味子👧🏻,2020/8/28 5:32:08,宾夕法尼亚州，匹兹堡,North Side Christian Health Centre,"816 Middle St. Pittsburgh, PA 15201",,核酸测试 （Nucleic acid test）,2020/8/19 9:10,2020/8/21 12:32,,2020/8/21 13:24,2020/8/21 16:57,2020/8/26 16:31,否,不需要,0,需要，建议预约,测试前20分钟不可进食、吸烟及喝水,,,,,,,,,
-xianweiz,2020/9/16 5:59:23,得克萨斯州，奥斯丁,Austin Regional Clinic (ACR),"Austin, Texas 78755",512-419-0707,核酸测试 （Nucleic acid test）,2020/9/14 15:37,2020/9/15 15:03,,2020/9/15 16:10,2020/9/15 16:15,2020/9/19 14:59,否,需要,0,需要，建议预约,流程为：首先ARC网站预约Televist看医生，（如果是new patient要用insurance，需要另外电话register），说因为Travel Purpose测，然后医生会帮schedule appointment，指定日期白天工作时间drive up去测试。24 hrs 出结果。注意MyChart报告并不会显示Name／DOB，但在电脑上打印PDF会有，在最上面很小字体，可能需要特别标注才能过审。,,,,,,,,,
-Jing,2020/8/26 4:30:09,得克萨斯州，达拉斯,Sinai Urgent Care,"8101 Preston Rd.Suite 201, Dallas, TX 75252",972-584-9554,"核酸测试 （Nucleic acid test）,
-抗体测试（AntiBodies), 抗原测试（Antigens)",2020/8/15 9:00,2020/8/17 13:00,2 ,,,,否,需要,299,需要，建议预约,如果你不说他们会直接给你做299的核酸+抗体检测，抗体15分钟拿结果核酸2天。去检测在外面的车里待着，直到轮到你自己走进building里面，只有你，医生，护士，不会有任何其他人，很安全！,,,,,,,,,
-浅唱,2020/8/26 6:01:21,得克萨斯州，达拉斯,DevLab bio,"4100 Fairway Dr #100, Carrolton, TX 75010",866-983-0667,核酸测试 （Nucleic acid test）,2020/8/21 11:30,2020/8/22 12:00,1 ,,,,否,需要,149,需要，建议预约,周六也可以出报告！！！,,,,,,,,,
-Jefferson,2020/9/5 0:00:46,俄亥俄州，辛辛那提,Colerain Urgent Care,"3645 Stone Creek Blvd Unit D Cincinnati, OH 45251",5139232300,核酸测试 （Nucleic acid test）,2020/7/24 15:00,2020/7/25 18:00,,,,,否,需要,80,不需要，walk in 即可,,,,,,,,,,
-Xian Qiao (乔显),2020/8/27 0:10:27,俄亥俄州，辛辛那提,CareFirst Urgent Care,4406 Montgomery Rd Cincinnati OH 45212,(513) 376-9354,核酸测试 （Nucleic acid test）,2020/8/18 8:30,2020/8/20 11:59,,2020/8/20 4:00,2020/8/20 5:00,2020/8/27 11:59,否,需要,100,不需要，walk in 即可,此机构为连锁，我去的其中一家。不需要打电话预约，但可以前一天在网上check-in。（非必要）,,,,,,,,,
-楚天笑,2020/10/4 0:54:53,俄勒冈州，波特兰,afc urgent care,"25 NW 23rd Place
-Portland, OR. 97210",,核酸测试 （Nucleic acid test）,2020/10/2 10:40,2020/10/2 11:40,,,,,是,需要,0,需要，建议预约,,,,,,,,,,
-Cessy Liu🐰🐻,2020/9/7 1:44:00,阿拉巴马州，伯明翰,American Family Care greystone,"5410 US-280, Birmingham, AL 35242",205-512-2361,核酸测试 （Nucleic acid test）,2020/9/4 13:15,2020/9/6 15:00,,2020/9/4 16:37,2020/9/6 16:57,2020/9/9 9:00,否,需要,246,需要，建议预约,因为rapid test是first come first test，数量有限，所以强烈建议在想去的当天一早8点给诊所打电话确定剩余的空位。afc很多诊所都可以做，一个没有了可以再给另外的诊所打电话。,,,,,,,,,
-Kemo🥕,2020/9/25 13:52:32,佛罗里达州，迈阿密,CVS,"600 NE 128th St, North Miami, FL 33161",,核酸测试 （Nucleic acid test）,2020/9/21 11:17,2020/9/22 16:07,,,,,否,不需要,0,需要，建议预约,CVS报告虽然只有一个collect日期，但是可以打电话联系客服（minuteclinic客服），要求客服提供full report。,,,,,,,,,
-大璇。,2020/8/30 8:50:31,佛罗里达州，坦帕,Lee Davis Community Resource Center,"3402 N. 22nd St., Tampa, Florida 33605",,核酸测试 （Nucleic acid test）,2020/8/20 11:00,2020/8/22 17:00,,,,,否,不需要,0,需要，建议预约,,,,,,,,,,
-大璇。,2020/8/30 8:54:04,佛罗里达州，坦帕,Suncoast Community Health Center,"313 S. Lakewood Drive, Brandon, Florida 33511",,核酸测试 （Nucleic acid test）,2020/8/15 11:00,2020/8/17 17:00,,,,,否,不需要,0,需要，建议预约,,,,,,,,,,
-Hx,2020/8/27 7:25:42,弗吉尼亚州，阿灵顿,Preston's Pharmacy,"5101 Lee Highway, Arlington, VA 22207",7035223412,核酸测试 （Nucleic acid test）,2020/8/14 9:00,2020/8/17 9:00,,2020/8/17 10:00,2020/8/18 15:00,2020/8/23 15:00,否,需要,35,需要，建议预约,需要有SSN,,,,,,,,,
-李晔,2020/9/26 0:02:28,弗吉尼亚州，阿灵顿,Preston's Pharmacy,"5101 Lee Hwy, Arlington, VA 22207",(703) 522-3412,核酸测试 （Nucleic acid test）,2020/9/22 12:30,2020/9/25 9:34,,2020/9/25 10:16,2020/9/25 11:06,2020/9/29 14:59,是,需要,35,需要，建议预约,给来旅游的家人测试。检测完填表需要保险或SSN任意一项，遂在IMG花30买了一份美国旅游保险，分别在Preston跟CVS使用，没出问题。周五提交核酸码，会给88小时有效期，有效到周二。Preston效率很快，如果想周五拿到检测结果，可以考虑周二下午晚些时候去检测。,,,,,,,,,
-Lena,2020/8/25 13:35:04,弗吉尼亚州，DC特区,ARC point lab,4910 Massachusetts Ave NW，20016,2028083389,核酸测试 （Nucleic acid test）,2020/8/24 13:30,2020/8/26 13:41,,2020/8/26 13:49,2020/8/26 14:30,2020/9/2 11:59,否,需要,270,需要，建议预约,保证两天后出结果，先付钱，需要自己拿着账单找保险报销,,,,,,,,,
-李晔,2020/9/17 9:30:10,华盛顿特区,CVS Pharmacy,"845 BLADENSBURG RD. NE WASHINGTON, DC",8863892727,核酸测试 （Nucleic acid test）,2020/9/13 10:40,2020/9/16 10:06,,2020/9/16 10:10,2020/9/16 10:47,2020/9/16 10:30,否,需要,35,需要，建议预约,"注意CVS的报告只有Collection Date, 没有标明出报告日期，造成CVS报告不可以用来申请核酸码！上传核酸码不久即收到不通过审核通知，原因是“报告时间为9.13，超出乘机时间3天”。所以，按照审核标准，出报告当天就已经过期。除非将来报告格式改变，切勿浪费时间尝试CVS",,,,,,,,,
-yukipuddin🧸,2020/9/2 5:00:01,华盛顿州，西雅图,Rainier Beach High School,"8815 Seward Park Ave S, Seattle, WA 98118",206-684-2489,核酸测试 （Nucleic acid test）,2020/8/31 10:32,2020/9/1 8:22,,2020/9/1 10:40,2020/9/1 10:47,2020/9/8 15:59,否,不需要,0,需要，建议预约,是Walk-up Site，可以开车去停车场然后下车排队，周二周日不开，可预约，也可直接去，检测结果有两个时间，我22小时就出结果了。,,,,,,,,,
-"Zheng, Yiyu",2020/9/13 3:36:03,华盛顿州，西雅图,SODO Drive-Through Site,"3820 6th Ave SSeattle, WA 98108",(206) 684-2489,核酸测试 （Nucleic acid test）,2020/9/11 14:09,2020/9/12 9:45,,2020/9/12 10:30,2020/9/12 11:30,2020/9/16 15:59,否,不需要,0,需要，建议预约,预约网址：https://www.seattle.gov/mayor/covid-19/covid-19-testing/schedule-a-test-if-you-have-symptoms,,,,,,,,,
-菇凉请留步,2020/8/26 9:38:58,华盛顿州，西雅图,Aurora testing center,"12040 Aurora Ave N, Seattle, WA 98133",206-684-2489,核酸测试 （Nucleic acid test）,2020/8/15 14:11,2020/8/16 13:55,1 ,,,,否,不需要,0,需要，建议预约,可预约，也可walk-in,,,,,,,,,
-老张头,2020/9/28 13:12:38,加利福尼亚州，戴维斯,LHI,"646 A St, Davis, CA  95616",,核酸测试 （Nucleic acid test）,2020/9/23 13:58,2020/9/26 3:25,,,,,,,0,需要，建议预约,,,,,,,,,,
-Sherman_Pany,2020/8/25 14:25:21,加利福尼亚州，洛杉矶,123 Medical Group,"18800 Amar Rd A8, Walnut, CA 91789",(626)593-1233,"核酸测试 （Nucleic acid test）, 
-抗体测试（AntiBodies)",中午12点或者下午5点前,次日早上10点或下午3点,1 ,2020/9/29 11:10,2020/9/29 11:59,2020/10/4 14:59,否,需要,225,不需要，walk in 即可,"1. 說中文
+3）可做当日加急检测",,,,,,,
+momo,2020/9/10 5:28,加拿大，温哥华,Tri-Cities COVID-19 & Influenza Like Illness Assessment Clinic,"Unit A120 - 2099 Lougheed Highway, Port Coquitlam, BC",236-996-9000,核酸测试 （Nucleic acid test）,2020/9/7 2:20,2020/9/9 2:00,,,,,否,需要,350,需要，建议预约,【10/1更新：请确认是否接受预约】在建筑物内庭，外面有指示牌，机构不接受电话，可以发邮件covidtravel@integratedwellness.clinic，官网上有很详细的整套测试说明。[已按要求修正]
+R,2020/9/22 22:38,加拿大，渥太华,COVID-19 Assessment Centre (Brewer Park Arena),"151 Brewer way, Ottawa, ON K1S 5T1",无,核酸测试 （Nucleic acid test）,2020/9/15 11:03,2020/9/17 13:27,,2020/9/17 14:30,2020/9/18 10:26,,是,不需要,0,不需要，walk in 即可,最近检测人数急剧增多，注意官网上（https://www.ottawapublichealth.ca/en/shared-content/assessment-centres.aspx）的最新open时间和公告哦。户外排队的时候会有点冷，很多人提早来的，所以室外至少一个小时，室内排队也是大概一个多小时，越晚约慢，family与单人检测的队伍是分开的。录入信息时和大夫说一下检测是因为travel回国，他们会给你一些登机需要的资料。大夫当时只给我捅了鼻子一侧10s。提交完微信核酸检测结果，未通过审核，原因是目前加拿大直飞国内不需要要HS码，只要纸质报告即可。现在已经在国内隔离了，祝福大家一切顺利呀！
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+LUCKY,2020/9/28 8:35,全美都可以,Picture Genetics,邮寄到加州,,核酸测试 （Nucleic acid test）,2020/9/16 17:00,2020/9/18 1:18,,2020/9/18 6:00,2020/9/18 13:00,2020/9/22 14:59,否,需要,119,需要，建议预约,这个结果出的太快了 建议比三天提前一天寄出就好！
+Kelly🥳,2020/8/30 3:45,宾夕法尼亚州，费城,cvs,"1901 WEST OREGON AVENUE, PHILADELPHIA, PA 19146",,核酸测试 （Nucleic acid test）,2020/8/26 3:00,2020/8/29 23:00,,,,,否,不需要,0,需要，建议预约,需要开车去做检测
+邓邓,2020/8/29 12:11,宾夕法尼亚州，费城,Rite Aid,"1856 N Broad St, Lansdale, PA 19446",(215) 412-9375,核酸测试 （Nucleic acid test）,2020/8/25 16:30,2020/8/27 17:25,,2020/8/28 17:15,2020/8/28 21:15,2020/9/4 9:59,否,不需要,0,需要，建议预约,请注意我在此表中填写的核酸码提交时间是按另一次测试提交的，本次结果最终未提交。
+五味子👧🏻,2020/8/28 5:32,宾夕法尼亚州，匹兹堡,North Side Christian Health Centre,"816 Middle St. Pittsburgh, PA 15201",,核酸测试 （Nucleic acid test）,2020/8/19 9:10,2020/8/21 12:32,,2020/8/21 13:24,2020/8/21 16:57,2020/8/26 16:31,否,不需要,0,需要，建议预约,测试前20分钟不可进食、吸烟及喝水
+xianweiz,2020/9/16 5:59,得克萨斯州，奥斯丁,Austin Regional Clinic (ACR),"Austin, Texas 78755",512-419-0707,核酸测试 （Nucleic acid test）,2020/9/14 15:37,2020/9/15 15:03,,2020/9/15 16:10,2020/9/15 16:15,2020/9/19 14:59,否,需要,0,需要，建议预约,流程为：首先ARC网站预约Televist看医生，（如果是new patient要用insurance，需要另外电话register），说因为Travel Purpose测，然后医生会帮schedule appointment，指定日期白天工作时间drive up去测试。24 hrs 出结果。注意MyChart报告并不会显示Name／DOB，但在电脑上打印PDF会有，在最上面很小字体，可能需要特别标注才能过审。
+Jing,2020/8/26 4:30,得克萨斯州，达拉斯,Sinai Urgent Care,"8101 Preston Rd.Suite 201, Dallas, TX 75252",972-584-9554,"核酸测试 （Nucleic acid test）,
+抗体测试（AntiBodies), 抗原测试（Antigens)",2020/8/15 9:00,2020/8/17 13:00,2,,,,否,需要,299,需要，建议预约,如果你不说他们会直接给你做299的核酸+抗体检测，抗体15分钟拿结果核酸2天。去检测在外面的车里待着，直到轮到你自己走进building里面，只有你，医生，护士，不会有任何其他人，很安全！
+浅唱,2020/8/26 6:01,得克萨斯州，达拉斯,DevLab bio,"4100 Fairway Dr #100, Carrolton, TX 75010",866-983-0667,核酸测试 （Nucleic acid test）,2020/8/21 11:30,2020/8/22 12:00,1,,,,否,需要,149,需要，建议预约,周六也可以出报告！！！
+Jefferson,2020/9/5 0:00,俄亥俄州，辛辛那提,Colerain Urgent Care,"3645 Stone Creek Blvd Unit D Cincinnati, OH 45251",5139232300,核酸测试 （Nucleic acid test）,2020/7/24 15:00,2020/7/25 18:00,,,,,否,需要,80,不需要，walk in 即可,
+Xian Qiao (乔显),2020/8/27 0:10,俄亥俄州，辛辛那提,CareFirst Urgent Care,4406 Montgomery Rd Cincinnati OH 45212,(513) 376-9354,核酸测试 （Nucleic acid test）,2020/8/18 8:30,2020/8/20 11:59,,2020/8/20 4:00,2020/8/20 5:00,2020/8/27 11:59,否,需要,100,不需要，walk in 即可,此机构为连锁，我去的其中一家。不需要打电话预约，但可以前一天在网上check-in。（非必要）
+楚天笑,2020/10/4 0:54,俄勒冈州，波特兰,afc urgent care,"25 NW 23rd Place
+Portland, OR. 97210",,核酸测试 （Nucleic acid test）,2020/10/2 10:40,2020/10/2 11:40,,,,,是,需要,0,需要，建议预约,
+Cessy Liu🐰🐻,2020/9/7 1:44,阿拉巴马州，伯明翰,American Family Care greystone,"5410 US-280, Birmingham, AL 35242",205-512-2361,核酸测试 （Nucleic acid test）,2020/9/4 13:15,2020/9/6 15:00,,2020/9/4 16:37,2020/9/6 16:57,2020/9/9 9:00,否,需要,246,需要，建议预约,因为rapid test是first come first test，数量有限，所以强烈建议在想去的当天一早8点给诊所打电话确定剩余的空位。afc很多诊所都可以做，一个没有了可以再给另外的诊所打电话。
+Kemo🥕,2020/9/25 13:52,佛罗里达州，迈阿密,CVS,"600 NE 128th St, North Miami, FL 33161",,核酸测试 （Nucleic acid test）,2020/9/21 11:17,2020/9/22 16:07,,,,,否,不需要,0,需要，建议预约,CVS报告虽然只有一个collect日期，但是可以打电话联系客服（minuteclinic客服），要求客服提供full report。
+大璇。,2020/8/30 8:50,佛罗里达州，坦帕,Lee Davis Community Resource Center,"3402 N. 22nd St., Tampa, Florida 33605",,核酸测试 （Nucleic acid test）,2020/8/20 11:00,2020/8/22 17:00,,,,,否,不需要,0,需要，建议预约,
+大璇。,2020/8/30 8:54,佛罗里达州，坦帕,Suncoast Community Health Center,"313 S. Lakewood Drive, Brandon, Florida 33511",,核酸测试 （Nucleic acid test）,2020/8/15 11:00,2020/8/17 17:00,,,,,否,不需要,0,需要，建议预约,
+Hx,2020/8/27 7:25,弗吉尼亚州，阿灵顿,Preston's Pharmacy,"5101 Lee Highway, Arlington, VA 22207",7035223412,核酸测试 （Nucleic acid test）,2020/8/14 9:00,2020/8/17 9:00,,2020/8/17 10:00,2020/8/18 15:00,2020/8/23 15:00,否,需要,35,需要，建议预约,需要有SSN
+李晔,2020/9/26 0:02,弗吉尼亚州，阿灵顿,Preston's Pharmacy,"5101 Lee Hwy, Arlington, VA 22207",(703) 522-3412,核酸测试 （Nucleic acid test）,2020/9/22 12:30,2020/9/25 9:34,,2020/9/25 10:16,2020/9/25 11:06,2020/9/29 14:59,是,需要,35,需要，建议预约,给来旅游的家人测试。检测完填表需要保险或SSN任意一项，遂在IMG花30买了一份美国旅游保险，分别在Preston跟CVS使用，没出问题。周五提交核酸码，会给88小时有效期，有效到周二。Preston效率很快，如果想周五拿到检测结果，可以考虑周二下午晚些时候去检测。
+Lena,2020/8/25 13:35,弗吉尼亚州，DC特区,ARC point lab,4910 Massachusetts Ave NW，20016,2028083389,核酸测试 （Nucleic acid test）,2020/8/24 13:30,2020/8/26 13:41,,2020/8/26 13:49,2020/8/26 14:30,2020/9/2 11:59,否,需要,270,需要，建议预约,保证两天后出结果，先付钱，需要自己拿着账单找保险报销
+李晔,2020/9/17 9:30,华盛顿特区,CVS Pharmacy,"845 BLADENSBURG RD. NE WASHINGTON, DC",8863892727,核酸测试 （Nucleic acid test）,2020/9/13 10:40,2020/9/16 10:06,,2020/9/16 10:10,2020/9/16 10:47,2020/9/16 10:30,否,需要,35,需要，建议预约,"注意CVS的报告只有Collection Date, 没有标明出报告日期，造成CVS报告不可以用来申请核酸码！上传核酸码不久即收到不通过审核通知，原因是“报告时间为9.13，超出乘机时间3天”。所以，按照审核标准，出报告当天就已经过期。除非将来报告格式改变，切勿浪费时间尝试CVS"
+yukipuddin🧸,2020/9/2 5:00,华盛顿州，西雅图,Rainier Beach High School,"8815 Seward Park Ave S, Seattle, WA 98118",206-684-2489,核酸测试 （Nucleic acid test）,2020/8/31 10:32,2020/9/1 8:22,,2020/9/1 10:40,2020/9/1 10:47,2020/9/8 15:59,否,不需要,0,需要，建议预约,是Walk-up Site，可以开车去停车场然后下车排队，周二周日不开，可预约，也可直接去，检测结果有两个时间，我22小时就出结果了。
+"Zheng, Yiyu",2020/9/13 3:36,华盛顿州，西雅图,SODO Drive-Through Site,"3820 6th Ave SSeattle, WA 98108",(206) 684-2489,核酸测试 （Nucleic acid test）,2020/9/11 14:09,2020/9/12 9:45,,2020/9/12 10:30,2020/9/12 11:30,2020/9/16 15:59,否,不需要,0,需要，建议预约,预约网址：https://www.seattle.gov/mayor/covid-19/covid-19-testing/schedule-a-test-if-you-have-symptoms
+菇凉请留步,2020/8/26 9:38,华盛顿州，西雅图,Aurora testing center,"12040 Aurora Ave N, Seattle, WA 98133",206-684-2489,核酸测试 （Nucleic acid test）,2020/8/15 14:11,2020/8/16 13:55,1,,,,否,不需要,0,需要，建议预约,可预约，也可walk-in
+老张头,2020/9/28 13:12,加利福尼亚州，戴维斯,LHI,"646 A St, Davis, CA  95616",,核酸测试 （Nucleic acid test）,2020/9/23 13:58,2020/9/26 3:25,,,,,,,0,需要，建议预约,
+Sherman_Pany,2020/8/25 14:25,加利福尼亚州，洛杉矶,123 Medical Group,"18800 Amar Rd A8, Walnut, CA 91789",(626)593-1233,"核酸测试 （Nucleic acid test）, 
+抗体测试（AntiBodies)",中午12点或者下午5点前,次日早上10点或下午3点,1,2020/9/29 11:10,2020/9/29 11:59,2020/10/4 14:59,否,需要,225,不需要，walk in 即可,"1. 說中文
 2. 可作加急檢測，中午12點前採樣，6小時後出報告
-3. 可出具Superbill，由客人自行申報健康保險",,,,,,,,,
-贺,2020/9/8 8:11:09,加利福尼亚州，洛杉矶,fulgent,洛杉矶,,核酸测试 （Nucleic acid test）,2020/9/6 9:55,2020/9/7 14:05,,,,,否,不需要,0,需要，建议预约,"https://covid19.lacounty.gov/testing/
-使用网站可以查询可预约的机构和时间",,,,,,,,,
-贺,2020/9/9 5:32:43,加利福尼亚州，洛杉矶,curative,"2011 sunset blvd los angeles,ca 90026",,核酸测试 （Nucleic acid test）,2020/9/7 11:15,2020/9/8 6:02,,,,,否,不需要,0,需要，建议预约,不建议选择LA Downtown 检测点的原因一是不好停车，监测点难找；二是downtown即便白天也还是感觉很可怕。Google搜索LA County Covid-19 Test能找到很多检测点。拿到上一份检测结果后于09/07晚上提交核酸码，09/08早上9点半收到了核酸码。,,,,,,,,,
-木支 木支🍒,2020/8/30 12:22:53,加利福尼亚州，洛杉矶,LHI.Care SANTA MONICA COLLEGE,"2800 Airport Ave Santa Monica, CA 90405",,核酸测试 （Nucleic acid test）,2020/8/28 18:00,2020/8/29 16:15,,,,,否,不需要,0,需要，建议预约,步行人工检测,,,,,,,,,
-木支 木支🍒,2020/9/1 5:43:05,加利福尼亚州，洛杉矶,Curative - VA Parking Lot 15,"508 Constitution Ave Los Angeles, CA 90095",,核酸测试 （Nucleic acid test）,2020/8/29 11:30,2020/8/30 5:30,,,,,否,不需要,0,需要，建议预约,需要开车,,,,,,,,,
-Sally李祎凡,2020/9/8 14:17:02,加利福尼亚州，洛杉矶,Total Testing Solutions,"1724 Pennsylvania Ave, Los Angeles, ",,核酸测试 （Nucleic acid test）,2020/9/1 1:45,2020/9/3 23:06,,,,,否,不需要,0,需要，建议预约,护士会先打电话来询问一些测试相关问题，之后到约定时间约定地点开车去测试就好。结果显示有pcr字样，但是结果是non detective，没有negative字样。,,,,,,,,,
-眼镜kuang,2020/8/26 4:03:54,加利福尼亚州，洛杉矶,UCLA Ashe Center,"221 Westwood Plaza, Los Angeles, CA 90095",3108254073,核酸测试 （Nucleic acid test）,2020/8/20 10:53,2020/8/20 22:43,,2020/8/22 10:36,2020/8/22 10:44,2020/8/27 14:59,否,需要,105,需要，建议预约,需要有UCLA学生身份，通过Ashe Center Student Portal中预约。检测报告一般做检测的当天晚上就出，但第二天才发送给你，所以请算好核酸码有效时间。,,,,,,,,,
-饕餮,2020/9/29 13:06:04,加利福尼亚州，洛杉矶,Sun Clinical Laboratories（旭日化验所）,"9349 Telstar Ave, El Monte, CA 91731",(626) 234-2355,核酸测试 （Nucleic acid test）,2020/9/28 8:30,2020/9/28 17:08,,2020/9/28 18:36,2020/9/28 20:28,2020/10/3 2:59,否,需要,150,不需要，walk in 即可,中午12点前取样，承诺当天出报告。取样时间：08:00-12:00；出报告时间：18:00（凭护照领取，可代领，纸质报告，没有电子版，客服说18:00-22:00可领取）；费用：USD150，由于此检测专为旅游目的开设，不能用保险；流程：门口填写排队登记表和个人信息表，等叫名字，观看自主取样教学短片，进去交钱（我交现金，没问信用卡），领到回执和检测工具（一个袋子装有试管+棉签），拿去自己车里自行取样，密封好样本后交回给前台，可以离开了，下午6点后凭证件取报告。备注：现场有中文服务，周一到周六营业，周六时间可能有差别，建议先电话咨询，也可以要求转给中文客服。 ,,,,,,,,,
-Jennifer,2020/9/5 12:23:00,加利福尼亚州，洛杉矶/橙县,Discovery Genomics Inc,"130 Theory Suite 150, Irvine,CA 92617",9492201750或9492201708,核酸测试 （Nucleic acid test）,2020/8/2 10:50,2020/8/2 13:40,,,,,否,需要,298,不需要，walk in 即可,"在UCI附近，非常方便。检测分为三种，当天报告298美元，24小时内出结果是238,  48小时内出结果是198块。",,,,,,,,,
-郭备华 Steven,2020/9/2 13:11:09,加利福尼亚州，洛杉矶县/文图拉县（洛杉矶市区以西30英里）,PacGenomics,"28222 Agoura Rd #200/201, Agoura Hills, CA 91301",(818) 597-1938,核酸测试 （Nucleic acid test）,2020/8/31 9:20,2020/9/1 10:01,,2020/9/1 10:35,2020/9/1 10:42,2020/9/7 14:59,否,需要,150,需要，建议预约,,,,,,,,,,
-赵卓,2020/9/10 11:46:29,加利福尼亚州，圣地亚哥,US Specialty Labs,"11588 Sorrento Valley Road, Suite 16, San Diego, CA 92121",858-209-2300,核酸测试 （Nucleic acid test）,2020/9/8 14:20,2020/9/8 21:00,,2020/9/9 9:00,2020/9/9 10:00,2020/9/14 14:59,否,需要,85,需要，建议预约,"强推！重点：
+3. 可出具Superbill，由客人自行申報健康保險"
+贺,2020/9/8 8:11,加利福尼亚州，洛杉矶,fulgent,洛杉矶,,核酸测试 （Nucleic acid test）,2020/9/6 9:55,2020/9/7 14:05,,,,,否,不需要,0,需要，建议预约,"https://covid19.lacounty.gov/testing/
+使用网站可以查询可预约的机构和时间"
+贺,2020/9/9 5:32,加利福尼亚州，洛杉矶,curative,"2011 sunset blvd los angeles,ca 90026",,核酸测试 （Nucleic acid test）,2020/9/7 11:15,2020/9/8 6:02,,,,,否,不需要,0,需要，建议预约,不建议选择LA Downtown 检测点的原因一是不好停车，监测点难找；二是downtown即便白天也还是感觉很可怕。Google搜索LA County Covid-19 Test能找到很多检测点。拿到上一份检测结果后于09/07晚上提交核酸码，09/08早上9点半收到了核酸码。
+木支 木支🍒,2020/8/30 12:22,加利福尼亚州，洛杉矶,LHI.Care SANTA MONICA COLLEGE,"2800 Airport Ave Santa Monica, CA 90405",,核酸测试 （Nucleic acid test）,2020/8/28 18:00,2020/8/29 16:15,,,,,否,不需要,0,需要，建议预约,步行人工检测
+木支 木支🍒,2020/9/1 5:43,加利福尼亚州，洛杉矶,Curative - VA Parking Lot 15,"508 Constitution Ave Los Angeles, CA 90095",,核酸测试 （Nucleic acid test）,2020/8/29 11:30,2020/8/30 5:30,,,,,否,不需要,0,需要，建议预约,需要开车
+Sally李祎凡,2020/9/8 14:17,加利福尼亚州，洛杉矶,Total Testing Solutions,"1724 Pennsylvania Ave, Los Angeles, ",,核酸测试 （Nucleic acid test）,2020/9/1 1:45,2020/9/3 23:06,,,,,否,不需要,0,需要，建议预约,护士会先打电话来询问一些测试相关问题，之后到约定时间约定地点开车去测试就好。结果显示有pcr字样，但是结果是non detective，没有negative字样。
+眼镜kuang,2020/8/26 4:03,加利福尼亚州，洛杉矶,UCLA Ashe Center,"221 Westwood Plaza, Los Angeles, CA 90095",3108254073,核酸测试 （Nucleic acid test）,2020/8/20 10:53,2020/8/20 22:43,,2020/8/22 10:36,2020/8/22 10:44,2020/8/27 14:59,否,需要,105,需要，建议预约,需要有UCLA学生身份，通过Ashe Center Student Portal中预约。检测报告一般做检测的当天晚上就出，但第二天才发送给你，所以请算好核酸码有效时间。
+饕餮,2020/9/29 13:06,加利福尼亚州，洛杉矶,Sun Clinical Laboratories（旭日化验所）,"9349 Telstar Ave, El Monte, CA 91731",(626) 234-2355,核酸测试 （Nucleic acid test）,2020/9/28 8:30,2020/9/28 17:08,,2020/9/28 18:36,2020/9/28 20:28,2020/10/3 2:59,否,需要,150,不需要，walk in 即可,中午12点前取样，承诺当天出报告。取样时间：08:00-12:00；出报告时间：18:00（凭护照领取，可代领，纸质报告，没有电子版，客服说18:00-22:00可领取）；费用：USD150，由于此检测专为旅游目的开设，不能用保险；流程：门口填写排队登记表和个人信息表，等叫名字，观看自主取样教学短片，进去交钱（我交现金，没问信用卡），领到回执和检测工具（一个袋子装有试管+棉签），拿去自己车里自行取样，密封好样本后交回给前台，可以离开了，下午6点后凭证件取报告。备注：现场有中文服务，周一到周六营业，周六时间可能有差别，建议先电话咨询，也可以要求转给中文客服。 
+Jennifer,2020/9/5 12:23,加利福尼亚州，洛杉矶/橙县,Discovery Genomics Inc,"130 Theory Suite 150, Irvine,CA 92617",9492201750或9492201708,核酸测试 （Nucleic acid test）,2020/8/2 10:50,2020/8/2 13:40,,,,,否,需要,298,不需要，walk in 即可,"在UCI附近，非常方便。检测分为三种，当天报告298美元，24小时内出结果是238,  48小时内出结果是198块。"
+郭备华 Steven,2020/9/2 13:11,加利福尼亚州，洛杉矶县/文图拉县（洛杉矶市区以西30英里）,PacGenomics,"28222 Agoura Rd #200/201, Agoura Hills, CA 91301",(818) 597-1938,核酸测试 （Nucleic acid test）,2020/8/31 9:20,2020/9/1 10:01,,2020/9/1 10:35,2020/9/1 10:42,2020/9/7 14:59,否,需要,150,需要，建议预约,
+赵卓,2020/9/10 11:46,加利福尼亚州，圣地亚哥,US Specialty Labs,"11588 Sorrento Valley Road, Suite 16, San Diego, CA 92121",858-209-2300,核酸测试 （Nucleic acid test）,2020/9/8 14:20,2020/9/8 21:00,,2020/9/9 9:00,2020/9/9 10:00,2020/9/14 14:59,否,需要,85,需要，建议预约,"强推！重点：
 1.可约第二天，不需要有症状，PCR $85。
 2.官网写着24-48hrs，实际12小时不到拿到结果(居然晚上也在加班)。
 3.可另加$35 rush charge(还能更快？！)
 4.跟工作人员说要international travel，工作人员竟然主动问需不需要某个时间段出报告（很懂）。
-5.可以出具receipt供保险公司reimburse。具体攻略见：https://forum.uscreditcardguide.com/t/topic/9440",,,,,,,,,
-初雪,2020/9/15 1:36:31,加利福尼亚州，圣地亚哥，San Marcos,County of San Diego Health & Human Service Agency,"Viasat Engineering Pavilion, 333S. Twin Oaks Valley Road, San Marcos, 92078",2－1－1,核酸测试 （Nucleic acid test）,2020/9/9 15:15,2020/9/13 18:26,,2020/9/13 18:35,2020/9/13 19:50,2020/9/17 14:26,否,不需要,0,不需要，walk in 即可,官方网站有很多检测点可选！说的是3－5天出结果，但是我2天出结果只能再找客服！,,,,,,,,,
-🥚,2020/9/4 11:06:48,"加利福尼亚州，湾区, Antioch",Project Baseline,"20 E 18th St, Rite Aid drive-through, Antioch, CA, 94509",www.projectbaseline.com,核酸测试 （Nucleic acid test）,2020/8/15 12:00,2020/8/20 2:02,,2020/8/20 2:30,2020/8/20 9:00,2020/8/27 0:00,是,需要,0,需要，建议预约,检测核酸的时间都是美西时间 核酸有效时间是北京时间27号 但是不记得具体几点 不是很了解没有医保要不要付费 这个网址有很多个检测地点 都在bay area附近,,,,,,,,,
-AMC AGS BU FIN Only,2020/9/16 8:00:17,加利福尼亚州，湾区，旧金山,Santa Clara Valley Medical Center,777 E Santa Clara Street SAN JOSE CA 95112,,核酸测试 （Nucleic acid test）,2020/9/13 14:30,2020/9/14 13:26,,,,,否,不需要,0,需要，建议预约,Drive-through,,,,,,,,,
-AMC AGS BU FIN Only,2020/9/16 8:03:50,加利福尼亚州，湾区，旧金山,Walgreens,"20011 Bollinger Rd, Cupertino, CA 95014",,核酸测试 （Nucleic acid test）,2020/9/13 11:30,2020/9/15 2:05,,2020/9/15 8:45,2020/9/15 10:45,2020/9/19 15:59,否,不需要,0,需要，建议预约,"Drive-through, 自己拿棉签伸入鼻腔获取样本",,,,,,,,,
-AMC AGS BU FIN Only,2020/9/17 7:10:03,加利福尼亚州，湾区，旧金山,Project Baseline (Verily),"1750 S White Rd, Mt. Pleasant High School, San Jose, CA, 95127",,核酸测试 （Nucleic acid test）,2020/9/14 11:30,2020/9/16 11:53,,,,,否,不需要,0,需要，建议预约,Drive-through,,,,,,,,,
-Andrea ,2020/9/12 5:41:42,加利福尼亚州，湾区，旧金山,Planned Parenthood Mar Monte,"Shoreline Athletic Fields parking lot 
+5.可以出具receipt供保险公司reimburse。具体攻略见：https://forum.uscreditcardguide.com/t/topic/9440"
+初雪,2020/9/15 1:36,加利福尼亚州，圣地亚哥，San Marcos,County of San Diego Health & Human Service Agency,"Viasat Engineering Pavilion, 333S. Twin Oaks Valley Road, San Marcos, 92078",2－1－1,核酸测试 （Nucleic acid test）,2020/9/9 15:15,2020/9/13 18:26,,2020/9/13 18:35,2020/9/13 19:50,2020/9/17 14:26,否,不需要,0,不需要，walk in 即可,官方网站有很多检测点可选！说的是3－5天出结果，但是我2天出结果只能再找客服！
+��,2020/9/4 11:06,"加利福尼亚州，湾区, Antioch",Project Baseline,"20 E 18th St, Rite Aid drive-through, Antioch, CA, 94509",www.projectbaseline.com,核酸测试 （Nucleic acid test）,2020/8/15 12:00,2020/8/20 2:02,,2020/8/20 2:30,2020/8/20 9:00,2020/8/27 0:00,是,需要,0,需要，建议预约,检测核酸的时间都是美西时间 核酸有效时间是北京时间27号 但是不记得具体几点 不是很了解没有医保要不要付费 这个网址有很多个检测地点 都在bay area附近
+AMC AGS BU FIN Only,2020/9/16 8:00,加利福尼亚州，湾区，旧金山,Santa Clara Valley Medical Center,777 E Santa Clara Street SAN JOSE CA 95112,,核酸测试 （Nucleic acid test）,2020/9/13 14:30,2020/9/14 13:26,,,,,否,不需要,0,需要，建议预约,Drive-through
+AMC AGS BU FIN Only,2020/9/16 8:03,加利福尼亚州，湾区，旧金山,Walgreens,"20011 Bollinger Rd, Cupertino, CA 95014",,核酸测试 （Nucleic acid test）,2020/9/13 11:30,2020/9/15 2:05,,2020/9/15 8:45,2020/9/15 10:45,2020/9/19 15:59,否,不需要,0,需要，建议预约,"Drive-through, 自己拿棉签伸入鼻腔获取样本"
+AMC AGS BU FIN Only,2020/9/17 7:10,加利福尼亚州，湾区，旧金山,Project Baseline (Verily),"1750 S White Rd, Mt. Pleasant High School, San Jose, CA, 95127",,核酸测试 （Nucleic acid test）,2020/9/14 11:30,2020/9/16 11:53,,,,,否,不需要,0,需要，建议预约,Drive-through
+Andrea ,2020/9/12 5:41,加利福尼亚州，湾区，旧金山,Planned Parenthood Mar Monte,"Shoreline Athletic Fields parking lot 
 2450 Garcia Ave 
-Mountain View, CA 94043",,核酸测试 （Nucleic acid test）,2020/9/8 11:00,2020/9/11 12:45,,,,,否,不需要,0,不需要，walk in 即可,Drive thru 不能预约 要先去网站http://testmv.plan-your-care.org 查看每周更新的检测available时间表,,,,,,,,,
-Andrea ,2020/9/16 3:19:03,加利福尼亚州，湾区，旧金山,Santa Clara Valley Medical Center,Santa Clara County Fairgrounds-Lot A,,核酸测试 （Nucleic acid test）,2020/9/11 5:00,2020/9/12 20:00,,,,,否,不需要,0,需要，建议预约,Drive Thru,,,,,,,,,
-Dengwen,2020/8/29 14:02:27,加利福尼亚州，湾区，旧金山,"Color Genomics, Inc.","543 The Embarcadero, San Francisco, CA 94105, USA",844-352-6567,核酸测试 （Nucleic acid test）,2020/8/19 14:30,2020/8/22 15:00,,2020/8/22 16:00,2020/8/22 22:00,2020/8/26 1:00,否,不需要,0,需要，建议预约,检测后给个条形码，获取结果用，务必保存,,,,,,,,,
-Jason-HeYY,2020/9/6 9:16:38,加利福尼亚州，湾区，旧金山,LHI,50 Baird circle， Brentwood CA 94513,,核酸测试 （Nucleic acid test）,2020/8/3 2:30,2020/8/6 2:30,,,,,,,0,,,,,,,,,,,
-Rachel,2020/9/21 12:15:25,加利福尼亚州，湾区，旧金山,Pixel By Labcorp,Home kit,,核酸测试 （Nucleic acid test）,2020/9/15 9:00,2020/9/17 5:25,,2020/9/17 10:30,2020/9/17 11:30,2020/9/21 14:59,否,需要,119,不需要，walk in 即可,从Pixel by LabCorp官网上显示在实验室收到样本后24-28小时以内出结果，实际不到24小时就出核酸测验结果了。提交核酸码的时候要选北卡使馆分区。,,,,,,,,,
-Rachel,2020/9/21 12:19:10,加利福尼亚州，湾区，旧金山,North East Medical Services,"211 Eastmoor Ave, Daly City, CA94105",,核酸测试 （Nucleic acid test）,2020/9/15 3:00,2020/9/17 12:00,,,,,否,需要,0,需要，建议预约,根据工作人员检测结果根据当时检查人数有关，快则2-3天，慢则7天。实际结果不到48小时出。,,,,,,,,,
-Rachel,2020/9/21 12:22:30,加利福尼亚州，湾区，旧金山,Color Genomics,"Pier 30 Lot - Lot #30, San Francisco, CA 94107",,核酸测试 （Nucleic acid test）,2020/9/16 2:30,2020/9/17 1:30,,,,,否,不需要,0,需要，建议预约,强烈推荐这家旧金山检测机构，工作人员非常好，据说结果一般24-48小时出，视检测人数而定。但是实际结果不到24小时就出了，而且免费。,,,,,,,,,
-安_小主,2020/9/25 3:15:27,加利福尼亚州，湾区，旧金山,Santa Clara Valley Medical Center,"777 E Santa Clara Street,San Jose, CA, 95112",8883341000,核酸测试 （Nucleic acid test）,2020/9/23 9:30,2020/9/24 5:28,,2020/9/24 8:30,2020/9/24 10:30,2020/9/28 15:35,否,不需要,0,需要，建议预约,非常推荐这个test center. drive through 但是鼻腔的swab是由专门的医护人员来做，不需要下车。全过程不超过五分钟。检测第二天早上就出结果了。report 也满足使领馆的审核要求。建议提前预约，这个test center 在san jose downtown.,,,,,,,,,
-古伶精怪,2020/9/23 11:23:11,加利福尼亚州，湾区，旧金山,Project Baseline,"617 N Jackson Ave, Independence High School Football Statium Parking lot, San Jose, CA, 95133",,核酸测试 （Nucleic acid test）,2020/9/21 13:30,2020/9/22 12:26,,2020/9/22 20:15,2020/9/22 20:20,2020/9/26 15:59,否,不需要,0,需要，建议预约,学校有两个停车场，注意找一下。,,,,,,,,,
-马儿,2020/9/7 2:41:04,加利福尼亚州，湾区，旧金山,Walgreen,"Cupertino, CA 95014",,核酸测试 （Nucleic acid test）,2020/9/2 14:30,2020/9/5 6:00,,,,,否,不需要,0,需要，建议预约,,,,,,,,,,
-№今非希比,2020/9/21 21:20:52,加利福尼亚州，湾区，旧金山,Walgreens,"20011 Bollinger Rd, Cupertino, CA 95014",,核酸测试 （Nucleic acid test）,2020/9/14 11:30,2020/9/16 4:16,,2020/9/16 12:41,2020/9/16 12:48,2020/9/20 0:59,否,不需要,0,需要，建议预约,最多可以提前3天网上预约；Drive-In需要提前5分钟到达：到达后工作人员解释如何使用免签自己采样（免签需要在左、右鼻子里插入2 inches然后转3～5圈），然后工作会把采样棉签和核酸检测信息袋推到车窗门口让你在车内自己采完样放回推车；Walgreens官网说2～3天出结果，现场工作人员说3～5天，实际2天不到收到来自PWNHealth Clinical的邮件、包含LabCorp的核酸测试结果（报告很详细，有采样日期、报告日期、个人信息等）；核酸码申请提交10分钟内便收到批准，有效期只有3天多（83小时）；核酸码有效期是北京时间，会比美国时间早十几个小时，大家提交航班信息的时候要注意、保证核酸码在美国或者其他区域出发时有效！,,,,,,,,,
-Tong彤,2020/9/19 6:19:44,加利福尼亚州，湾区，旧金山,Project Baseline,"617 N Jackson Ave, Independence High School Football Stadium Parking lot, San Jose, CA, 95133",,核酸测试 （Nucleic acid test）,2020/9/16 13:45,2020/9/18 14:27,,,,,否,不需要,0,需要，建议预约,,,,,,,,,,
-北美票帝,2020/8/25 12:59:48,科罗拉多州，丹佛,Stride Community Health Center,"Jeffco Stadium 500 Kipling St., Lakewood, CO 80226",303-360-6276,核酸测试 （Nucleic acid test）,2020/8/25 9:00,2020/8/27 7:35,,,,,否,不需要,0,不需要，walk in 即可,需要自己“描述”一下症状,,,,,,,,,
-黄斯嘉,2020/9/22 1:25:47,科罗拉多州，丹佛,Pepsi Center Drive-up Testing,"1000 Chopper Circle, Denver, CO 80204, USA",,核酸测试 （Nucleic acid test）,2020/9/14 12:30,2020/9/16 10:00,,,,,否,不需要,0,不需要，walk in 即可,,,,,,,,,,
-Annie_Hyacinth,2020/9/6 1:38:56,马里兰州，DC特区,"Medical Access Urgent Care Germantown, MD","12321 Middlebrook Rd Germantown, MD 20874",(301) 428-1070,核酸测试 （Nucleic acid test）,2020/9/3 9:15,2020/9/4 19:07,,2020/9/5 9:00,2020/9/5 9:35,2020/9/10 23:59,否,需要,150,不需要，walk in 即可,建议自己去拿结果，这样第三天就能拿到；如果等他们通知的话可能需要再等几天,,,,,,,,,
-感觉,2020/9/26 3:06:29,马里兰州，DC特区,CVS at hyattsville ,"5621 Sargent Rd, Hyattsville, MD 20782",(301) 559-3333,核酸测试 （Nucleic acid test）,2020/9/22 10:00,2020/9/24 15:00,,,,,否,不需要,0,需要，建议预约,提前登陆CVS官网,,,,,,,,,
-感觉,2020/9/26 3:09:17,马里兰州，DC特区,Prince George Conuty Health Center,"6120 Sargent Rd, Chillum, MD 20782",(301) 559-3333,核酸测试 （Nucleic acid test）,2020/9/23 11:00,2020/9/24 23:06,,,,,否,不需要,0,不需要，walk in 即可,这是县里免费提供的，好几个地点，基本上第二天就能拿到结果。,,,,,,,,,
-感觉,2020/9/26 3:12:31,马里兰州，DC特区,pm pediatrics ,"7401 Greenbelt Road
-Greenbelt, MD, 20770",301.982.5437,核酸测试 （Nucleic acid test）,2020/9/24 12:09,2020/9/25 13:09,,,,,是,需要,0,不需要，walk in 即可,有医保免费，没医保65刀,,,,,,,,,
-LILY,2020/9/5 10:05:23,马萨诸塞州，波士顿,Tufts Medical Center,"171 Harrison Ave, Boston, MA, 02111",,核酸测试 （Nucleic acid test）,2020/8/27 13:55,2020/8/28 12:00,,,,,是,需要,160,不需要，walk in 即可,"1）电话通知结果，如需纸质或电子版报告，工作人员会让你下载并填写一个申请表，然后自行发送到一个邮箱，才能获取报告，但实际并不需要。在医院登记信息后，医院会发邮件到所提供邮箱，邮件中会让你注册一个医院的账户，报告出来后就可以在这个账户中查到，也会有电子版报告下载和打印，上传这份报告就可以获得核酸码。如有医疗保险，要携带保险卡。
-2）官网说两到三天，几乎一定是24-36小时内出结果，提前一天取检测最好否则容易出的太快",,,,,,,,,
-北美票帝,2020/8/25 13:01:29,马萨诸塞州，波士顿,Mass General Brigham Urgent Care,"1285 Beacon Street, Brookline, MA, 02446",,核酸测试 （Nucleic acid test）,2020/8/20 10:00,2020/8/21 13:00,,2020/8/23 18:27,2020/8/23 19:02,,是,需要,0,不需要，walk in 即可,可自行打印结果,,,,,,,,,
-徐么么➡️慢慢悠悠😊,2020/8/25 21:12:34,马萨诸塞州，波士顿,Mass General Brigham Urgent Care - Newton,"71 Needham St, Newton, MA 02461",,核酸测试 （Nucleic acid test）,2020/8/22 20:00,2020/8/24 20:00,2 ,,,,是,需要,35,不需要，walk in 即可,,,,,,,,,,
-。,2020/9/13 7:57:29,密歇根州，底特律,Rite Aid,"46977 Romeo Plank Rd, Macomb, MI, 48044",,核酸测试 （Nucleic acid test）,2020/9/8 14:09,2020/9/9 21:05,,,,,否,不需要,0,需要，建议预约,"可通过Gmail在project baseline预约检测
-",,,,,,,,,
-焦畅,2020/9/21 20:36:55,密歇根州，底特律,Holgistic ,"720 E Eleven Mile Rd, Royal Oak, MI, 48067",（248）221-1725,核酸测试 （Nucleic acid test）,2020/9/10 10:30,2020/9/12 20:15,,,,,是,不需要,0,需要，建议预约,需要打电话预约,,,,,,,,,
-焦畅,2020/9/21 20:41:59,密歇根州，底特律,Ascent Urgent Care-Saline,"140 S Industrial Dr, Saline, MI",7343162268,核酸测试 （Nucleic acid test）,2020/9/12 9:40,2020/9/13 19:51,,,,,否,需要,120,不需要，walk in 即可,一周有几天不测试 建议提前打电话问清楚开放测试的时间,,,,,,,,,
-焦畅,2020/9/21 20:45:47,密歇根州，底特律,MyHealth Urgent Care Troy,"1500 W Big Beaver Rd #104, Troy, MI, 48084",2486494444,核酸测试 （Nucleic acid test）,2020/9/13 11:15,2020/9/14 15:47,,,,,否,需要,80,不需要，walk in 即可,,,,,,,,,,
-焦畅,2020/9/21 20:50:58,密歇根州，底特律,Rite Aid,"360 Martin Luther King Jr Blvd N, Pontiac, MI, 48342",,核酸测试 （Nucleic acid test）,2020/9/14 10:18,2020/9/15 17:36,,,,,否,不需要,0,不需要，walk in 即可,可以用gmail在project baseline 上免费预约,,,,,,,,,
-眼镜kuang,2020/8/26 4:06:04,明尼苏达州，明尼苏达双城 Twin Cities,Valley Pain Relief and Wellness Center,"2428 East 117th St, Burnsville MN 55337",612-444-3000,核酸测试 （Nucleic acid test）,2020/8/12 10:00,2020/8/13 7:30,,2020/8/14 9:30,2020/8/14 9:55,2020/8/20 23:59,,,110,需要，建议预约,在线预约系统有bug，电话人工如打不通可发邮件，回复较快,,,,,,,,,
-河豚Mia,2020/9/28 15:10:17,内华达州，拉斯维加斯,Southern nevada health district(All Saints Episcopal Church),"4201 W Washington, Las Vegas, NV 89107",(702) 759-1354,核酸测试 （Nucleic acid test）,2020/9/4 7:27,2020/9/4 21:31,,,,,否,不需要,0,需要，建议预约,还比较正规的检测点，工作人员全副武装那种，可以在教堂室外等，开着门的小房间一个一个进去采集样本，做过2次核酸检测，一次当天出结果，一次第二天出，可直接在网站下载报告 https://www.southernnevadahealthdistrict.org/covid-19-specimen-collection/#/,,,,,,,,,
-99,2020/10/4 0:24:24,内华达州，拉斯维加斯,UMC,"CASHMAN CENTER TESTING SITE
+Mountain View, CA 94043",,核酸测试 （Nucleic acid test）,2020/9/8 11:00,2020/9/11 12:45,,,,,否,不需要,0,不需要，walk in 即可,Drive thru 不能预约 要先去网站http://testmv.plan-your-care.org 查看每周更新的检测available时间表
+Andrea ,2020/9/16 3:19,加利福尼亚州，湾区，旧金山,Santa Clara Valley Medical Center,Santa Clara County Fairgrounds-Lot A,,核酸测试 （Nucleic acid test）,2020/9/11 5:00,2020/9/12 20:00,,,,,否,不需要,0,需要，建议预约,Drive Thru
+Dengwen,2020/8/29 14:02,加利福尼亚州，湾区，旧金山,"Color Genomics, Inc.","543 The Embarcadero, San Francisco, CA 94105, USA",844-352-6567,核酸测试 （Nucleic acid test）,2020/8/19 14:30,2020/8/22 15:00,,2020/8/22 16:00,2020/8/22 22:00,2020/8/26 1:00,否,不需要,0,需要，建议预约,检测后给个条形码，获取结果用，务必保存
+Jason-HeYY,2020/9/6 9:16,加利福尼亚州，湾区，旧金山,LHI,50 Baird circle， Brentwood CA 94513,,核酸测试 （Nucleic acid test）,2020/8/3 2:30,2020/8/6 2:30,,,,,,,0,,
+Rachel,2020/9/21 12:15,加利福尼亚州，湾区，旧金山,Pixel By Labcorp,Home kit,,核酸测试 （Nucleic acid test）,2020/9/15 9:00,2020/9/17 5:25,,2020/9/17 10:30,2020/9/17 11:30,2020/9/21 14:59,否,需要,119,不需要，walk in 即可,从Pixel by LabCorp官网上显示在实验室收到样本后24-28小时以内出结果，实际不到24小时就出核酸测验结果了。提交核酸码的时候要选北卡使馆分区。
+Rachel,2020/9/21 12:19,加利福尼亚州，湾区，旧金山,North East Medical Services,"211 Eastmoor Ave, Daly City, CA94105",,核酸测试 （Nucleic acid test）,2020/9/15 3:00,2020/9/17 12:00,,,,,否,需要,0,需要，建议预约,根据工作人员检测结果根据当时检查人数有关，快则2-3天，慢则7天。实际结果不到48小时出。
+Rachel,2020/9/21 12:22,加利福尼亚州，湾区，旧金山,Color Genomics,"Pier 30 Lot - Lot #30, San Francisco, CA 94107",,核酸测试 （Nucleic acid test）,2020/9/16 2:30,2020/9/17 1:30,,,,,否,不需要,0,需要，建议预约,强烈推荐这家旧金山检测机构，工作人员非常好，据说结果一般24-48小时出，视检测人数而定。但是实际结果不到24小时就出了，而且免费。
+安_小主,2020/9/25 3:15,加利福尼亚州，湾区，旧金山,Santa Clara Valley Medical Center,"777 E Santa Clara Street,San Jose, CA, 95112",8883341000,核酸测试 （Nucleic acid test）,2020/9/23 9:30,2020/9/24 5:28,,2020/9/24 8:30,2020/9/24 10:30,2020/9/28 15:35,否,不需要,0,需要，建议预约,非常推荐这个test center. drive through 但是鼻腔的swab是由专门的医护人员来做，不需要下车。全过程不超过五分钟。检测第二天早上就出结果了。report 也满足使领馆的审核要求。建议提前预约，这个test center 在san jose downtown.
+古伶精怪,2020/9/23 11:23,加利福尼亚州，湾区，旧金山,Project Baseline,"617 N Jackson Ave, Independence High School Football Statium Parking lot, San Jose, CA, 95133",,核酸测试 （Nucleic acid test）,2020/9/21 13:30,2020/9/22 12:26,,2020/9/22 20:15,2020/9/22 20:20,2020/9/26 15:59,否,不需要,0,需要，建议预约,学校有两个停车场，注意找一下。
+马儿,2020/9/7 2:41,加利福尼亚州，湾区，旧金山,Walgreen,"Cupertino, CA 95014",,核酸测试 （Nucleic acid test）,2020/9/2 14:30,2020/9/5 6:00,,,,,否,不需要,0,需要，建议预约,
+№今非希比,2020/9/21 21:20,加利福尼亚州，湾区，旧金山,Walgreens,"20011 Bollinger Rd, Cupertino, CA 95014",,核酸测试 （Nucleic acid test）,2020/9/14 11:30,2020/9/16 4:16,,2020/9/16 12:41,2020/9/16 12:48,2020/9/20 0:59,否,不需要,0,需要，建议预约,最多可以提前3天网上预约；Drive-In需要提前5分钟到达：到达后工作人员解释如何使用免签自己采样（免签需要在左、右鼻子里插入2 inches然后转3～5圈），然后工作会把采样棉签和核酸检测信息袋推到车窗门口让你在车内自己采完样放回推车；Walgreens官网说2～3天出结果，现场工作人员说3～5天，实际2天不到收到来自PWNHealth Clinical的邮件、包含LabCorp的核酸测试结果（报告很详细，有采样日期、报告日期、个人信息等）；核酸码申请提交10分钟内便收到批准，有效期只有3天多（83小时）；核酸码有效期是北京时间，会比美国时间早十几个小时，大家提交航班信息的时候要注意、保证核酸码在美国或者其他区域出发时有效！
+Tong彤,2020/9/19 6:19,加利福尼亚州，湾区，旧金山,Project Baseline,"617 N Jackson Ave, Independence High School Football Stadium Parking lot, San Jose, CA, 95133",,核酸测试 （Nucleic acid test）,2020/9/16 13:45,2020/9/18 14:27,,,,,否,不需要,0,需要，建议预约,
+北美票帝,2020/8/25 12:59,科罗拉多州，丹佛,Stride Community Health Center,"Jeffco Stadium 500 Kipling St., Lakewood, CO 80226",303-360-6276,核酸测试 （Nucleic acid test）,2020/8/25 9:00,2020/8/27 7:35,,,,,否,不需要,0,不需要，walk in 即可,需要自己“描述”一下症状
+黄斯嘉,2020/9/22 1:25,科罗拉多州，丹佛,Pepsi Center Drive-up Testing,"1000 Chopper Circle, Denver, CO 80204, USA",,核酸测试 （Nucleic acid test）,2020/9/14 12:30,2020/9/16 10:00,,,,,否,不需要,0,不需要，walk in 即可,
+Annie_Hyacinth,2020/9/6 1:38,马里兰州，DC特区,"Medical Access Urgent Care Germantown, MD","12321 Middlebrook Rd Germantown, MD 20874",(301) 428-1070,核酸测试 （Nucleic acid test）,2020/9/3 9:15,2020/9/4 19:07,,2020/9/5 9:00,2020/9/5 9:35,2020/9/10 23:59,否,需要,150,不需要，walk in 即可,建议自己去拿结果，这样第三天就能拿到；如果等他们通知的话可能需要再等几天
+感觉,2020/9/26 3:06,马里兰州，DC特区,CVS at hyattsville ,"5621 Sargent Rd, Hyattsville, MD 20782",(301) 559-3333,核酸测试 （Nucleic acid test）,2020/9/22 10:00,2020/9/24 15:00,,,,,否,不需要,0,需要，建议预约,提前登陆CVS官网
+感觉,2020/9/26 3:09,马里兰州，DC特区,Prince George Conuty Health Center,"6120 Sargent Rd, Chillum, MD 20782",(301) 559-3333,核酸测试 （Nucleic acid test）,2020/9/23 11:00,2020/9/24 23:06,,,,,否,不需要,0,不需要，walk in 即可,这是县里免费提供的，好几个地点，基本上第二天就能拿到结果。
+感觉,2020/9/26 3:12,马里兰州，DC特区,pm pediatrics ,"7401 Greenbelt Road
+Greenbelt, MD, 20770",301.982.5437,核酸测试 （Nucleic acid test）,2020/9/24 12:09,2020/9/25 13:09,,,,,是,需要,0,不需要，walk in 即可,有医保免费，没医保65刀
+LILY,2020/9/5 10:05,马萨诸塞州，波士顿,Tufts Medical Center,"171 Harrison Ave, Boston, MA, 02111",,核酸测试 （Nucleic acid test）,2020/8/27 13:55,2020/8/28 12:00,,,,,是,需要,160,不需要，walk in 即可,"1）电话通知结果，如需纸质或电子版报告，工作人员会让你下载并填写一个申请表，然后自行发送到一个邮箱，才能获取报告，但实际并不需要。在医院登记信息后，医院会发邮件到所提供邮箱，邮件中会让你注册一个医院的账户，报告出来后就可以在这个账户中查到，也会有电子版报告下载和打印，上传这份报告就可以获得核酸码。如有医疗保险，要携带保险卡。
+2）官网说两到三天，几乎一定是24-36小时内出结果，提前一天取检测最好否则容易出的太快"
+北美票帝,2020/8/25 13:01,马萨诸塞州，波士顿,Mass General Brigham Urgent Care,"1285 Beacon Street, Brookline, MA, 02446",,核酸测试 （Nucleic acid test）,2020/8/20 10:00,2020/8/21 13:00,,2020/8/23 18:27,2020/8/23 19:02,,是,需要,0,不需要，walk in 即可,可自行打印结果
+徐么么➡️慢慢悠悠😊,2020/8/25 21:12,马萨诸塞州，波士顿,Mass General Brigham Urgent Care - Newton,"71 Needham St, Newton, MA 02461",,核酸测试 （Nucleic acid test）,2020/8/22 20:00,2020/8/24 20:00,2,,,,是,需要,35,不需要，walk in 即可,
+。,2020/9/13 7:57,密歇根州，底特律,Rite Aid,"46977 Romeo Plank Rd, Macomb, MI, 48044",,核酸测试 （Nucleic acid test）,2020/9/8 14:09,2020/9/9 21:05,,,,,否,不需要,0,需要，建议预约,"可通过Gmail在project baseline预约检测
+"
+焦畅,2020/9/21 20:36,密歇根州，底特律,Holgistic ,"720 E Eleven Mile Rd, Royal Oak, MI, 48067",（248）221-1725,核酸测试 （Nucleic acid test）,2020/9/10 10:30,2020/9/12 20:15,,,,,是,不需要,0,需要，建议预约,需要打电话预约
+焦畅,2020/9/21 20:41,密歇根州，底特律,Ascent Urgent Care-Saline,"140 S Industrial Dr, Saline, MI",7343162268,核酸测试 （Nucleic acid test）,2020/9/12 9:40,2020/9/13 19:51,,,,,否,需要,120,不需要，walk in 即可,一周有几天不测试 建议提前打电话问清楚开放测试的时间
+焦畅,2020/9/21 20:45,密歇根州，底特律,MyHealth Urgent Care Troy,"1500 W Big Beaver Rd #104, Troy, MI, 48084",2486494444,核酸测试 （Nucleic acid test）,2020/9/13 11:15,2020/9/14 15:47,,,,,否,需要,80,不需要，walk in 即可,
+焦畅,2020/9/21 20:50,密歇根州，底特律,Rite Aid,"360 Martin Luther King Jr Blvd N, Pontiac, MI, 48342",,核酸测试 （Nucleic acid test）,2020/9/14 10:18,2020/9/15 17:36,,,,,否,不需要,0,不需要，walk in 即可,可以用gmail在project baseline 上免费预约
+眼镜kuang,2020/8/26 4:06,明尼苏达州，明尼苏达双城 Twin Cities,Valley Pain Relief and Wellness Center,"2428 East 117th St, Burnsville MN 55337",612-444-3000,核酸测试 （Nucleic acid test）,2020/8/12 10:00,2020/8/13 7:30,,2020/8/14 9:30,2020/8/14 9:55,2020/8/20 23:59,,,110,需要，建议预约,在线预约系统有bug，电话人工如打不通可发邮件，回复较快
+河豚Mia,2020/9/28 15:10,内华达州，拉斯维加斯,Southern nevada health district(All Saints Episcopal Church),"4201 W Washington, Las Vegas, NV 89107",(702) 759-1354,核酸测试 （Nucleic acid test）,2020/9/4 7:27,2020/9/4 21:31,,,,,否,不需要,0,需要，建议预约,还比较正规的检测点，工作人员全副武装那种，可以在教堂室外等，开着门的小房间一个一个进去采集样本，做过2次核酸检测，一次当天出结果，一次第二天出，可直接在网站下载报告 https://www.southernnevadahealthdistrict.org/covid-19-specimen-collection/#/
+99,2020/10/4 0:24,内华达州，拉斯维加斯,UMC,"CASHMAN CENTER TESTING SITE
 850 Las Vegas Blvd N Las Vegas, NV 89101",,核酸测试 （Nucleic acid test）,2020/10/1 15:00,2020/10/2 8:20,,2020/10/2 8:30,2020/10/2 10:00,,否,不需要,0,需要，建议预约,"https://www.umcsn.com/COVID19/ConsentBlue.aspx
-有众多检测点，都免费",,,,,,,,,
-北美票帝,2020/8/25 13:03:08,纽约州， 罗切斯特,UR Urgent Care - Pittsford,"3400 Monroe Ave, Rochester, NY, 14618",585-203-1055,核酸测试 （Nucleic acid test）,2020/8/23 11:00,2020/8/24 0:27,1 ,2020/8/24 14:33,2020/8/24 17:00,2020/8/31 23:59,否,需要,150,不需要，walk in 即可,,,,,,,,,,
-黉门秀才,2020/9/22 9:02:53,纽约州， Albany,Albany SUNY Drive Through,"1400 Washington Ave, Albany, NY 12206",888 364 3065,核酸测试 （Nucleic acid test）,2020/9/19 8:00,2020/9/20 16:35,,,,,否,不需要,0,需要，建议预约,,,,,,,,,,
-黉门秀才,2020/9/22 9:00:14,纽约州， Albany,CVS,"885 Central Ave, Albany, NY 12206",518 459 4550,核酸测试 （Nucleic acid test）,2020/9/18 15:20,2020/9/20 1:10,,2020/9/20 11:00,2020/9/20 18:00,,是,不需要,0,需要，建议预约,,,,,,,,,,
-倜,2020/9/5 4:22:24,纽约州， Syracuse,Upstate Hospital,"800 E Water Street, Syracuse, NY",3154642778,核酸测试 （Nucleic acid test）,2020/8/29 8:45,2020/8/30 9:11,,,,,是,需要,0,需要，建议预约,,,,,,,,,,
-Matthew,2020/10/1 2:38:09,纽约州，奧尼昂塔,WellNow Urgent Care (Oneonta),"5001 NY-23, Oneonta, NY 13820",+16073765346,核酸测试 （Nucleic acid test）,2020/9/25 8:20,2020/9/25 8:50,,2020/9/25 10:50,2020/9/25 11:20,2020/9/29 14:59,否,需要,110,不需要，walk in 即可,提供Abbott ID Now rapid test，立等可取。可以要求在报告上加盖医师和care facility的章。审核一次性通过。只是报告略简陋，可以要求打印拥有更多信息的两页版本，但我当天因为系统问题只获得了一页版本。,,,,,,,,,
- ,2020/9/26 7:38:42,纽约州，纽约,NYC Health Clinics (COVID-19 Express testing site),"3433 Junction Blvd, Jackson Heights NY 11372",N/A,核酸测试 （Nucleic acid test）,2020/9/25 17:03,2020/9/25 18:53,,2020/9/25 18:55,2020/9/25 19:32,2020/9/30 2:59,否,不需要,0,需要，建议预约,"强烈建议纽约的小伙伴们去这个test site,快准狠!!!!!!! 官网写得是24小时内出结果,但是本人和几个朋友都是2小时内就有结果(需要注册Mychart,App推送结果). 完全免费,只需要ID或者护照确认身份. 
+有众多检测点，都免费"
+北美票帝,2020/8/25 13:03,纽约州， 罗切斯特,UR Urgent Care - Pittsford,"3400 Monroe Ave, Rochester, NY, 14618",585-203-1055,核酸测试 （Nucleic acid test）,2020/8/23 11:00,2020/8/24 0:27,1,2020/8/24 14:33,2020/8/24 17:00,2020/8/31 23:59,否,需要,150,不需要，walk in 即可,
+黉门秀才,2020/9/22 9:02,纽约州， Albany,Albany SUNY Drive Through,"1400 Washington Ave, Albany, NY 12206",888 364 3065,核酸测试 （Nucleic acid test）,2020/9/19 8:00,2020/9/20 16:35,,,,,否,不需要,0,需要，建议预约,
+黉门秀才,2020/9/22 9:00,纽约州， Albany,CVS,"885 Central Ave, Albany, NY 12206",518 459 4550,核酸测试 （Nucleic acid test）,2020/9/18 15:20,2020/9/20 1:10,,2020/9/20 11:00,2020/9/20 18:00,,是,不需要,0,需要，建议预约,
+倜,2020/9/5 4:22,纽约州， Syracuse,Upstate Hospital,"800 E Water Street, Syracuse, NY",3154642778,核酸测试 （Nucleic acid test）,2020/8/29 8:45,2020/8/30 9:11,,,,,是,需要,0,需要，建议预约,
+Matthew,2020/10/1 2:38,纽约州，奧尼昂塔,WellNow Urgent Care (Oneonta),"5001 NY-23, Oneonta, NY 13820",16073765346,核酸测试 （Nucleic acid test）,2020/9/25 8:20,2020/9/25 8:50,,2020/9/25 10:50,2020/9/25 11:20,2020/9/29 14:59,否,需要,110,不需要，walk in 即可,提供Abbott ID Now rapid test，立等可取。可以要求在报告上加盖医师和care facility的章。审核一次性通过。只是报告略简陋，可以要求打印拥有更多信息的两页版本，但我当天因为系统问题只获得了一页版本。
+ ,2020/9/26 7:38,纽约州，纽约,NYC Health Clinics (COVID-19 Express testing site),"3433 Junction Blvd, Jackson Heights NY 11372",N/A,核酸测试 （Nucleic acid test）,2020/9/25 17:03,2020/9/25 18:53,,2020/9/25 18:55,2020/9/25 19:32,2020/9/30 2:59,否,不需要,0,需要，建议预约,"强烈建议纽约的小伙伴们去这个test site,快准狠!!!!!!! 官网写得是24小时内出结果,但是本人和几个朋友都是2小时内就有结果(需要注册Mychart,App推送结果). 完全免费,只需要ID或者护照确认身份. 
 预约网址https://www1.nyc.gov/site/doh/covid/covid-19-rapid-testing.page?fbclid=IwAR3rm7RjLJU-LKJv0TOxL9wQlcj7lnDKi7chr4Pb15ZRfNwfll2TIa51WpA. 
-注意工作日是周一到周五,每天晚上12点左右会更新新的预约.",,,,,,,,,
-Chlorophyll,2020/9/11 9:34:34,纽约州，纽约,NYU Langone Health,"550 1st Avenue, New York NY 10016",646-929-7800,核酸测试 （Nucleic acid test）,2020/9/10 10:50,2020/9/10 16:14,,2020/9/10 16:42,2020/9/10 18:13,2020/9/16 14:59,否,需要,126,需要，建议预约,核酸码有效期为北京时间，其他均为美东时间,,,,,,,,,
-kame的小小咩,2020/9/18 5:06:39,纽约州，纽约,NYC Health+ Hospitals/Woodhull,"760 Broadway, Brooklyn, 11206",718-963-8000,核酸测试 （Nucleic acid test）,2020/9/16 14:38,2020/9/17 14:42,,2020/9/17 15:31,2020/9/17 15:44,2020/9/21 2:59,是,,0,不需要，walk in 即可,,,,,,,,,,
-llcc,2020/9/29 6:54:17,纽约州，纽约,NYC Health Clinics (COVID-19 Express Testing Site),"3433 Junction Blvd, Jackson Heights, NY 11372",,核酸测试 （Nucleic acid test）,2020/9/28 10:12,2020/9/28 13:20,,2020/9/28 13:38,2020/9/28 16:30,2020/10/2 14:59,否,不需要,0,需要，建议预约,测试点不允许非测试者进入，但是会为不懂英语的老人安排tele-translator。结果也是在mychart里面看到，但是检测报告不像NYC Health+ Hospital系统那样可以在visit records里download到详细报告，只能从Test Results打印检测结果页面，不含检测机构名称和检测机构电话。虽然最终还是获得了HS码，但是用时比其它记录要长，所以大家还是要自行衡量风险,,,,,,,,,
-Raymöne :),2020/9/3 2:40:51,纽约州，纽约,NYC Health+Hospital/ Bensonhurst,"6315 14th Ave, Brooklyn, NY 11219",,核酸测试 （Nucleic acid test）,2020/8/30 15:40,2020/9/2 5:49,,,,,否,不需要,0,不需要，walk in 即可,这次是第二次同一个site测试，第一次测试样本被丢失，13天依旧没出结果,,,,,,,,,
-Raymöne :),2020/9/24 10:27:33,纽约州，纽约,NYC Health+Hospital/ Bensonhurst,"6315 14th Ave, Brooklyn, NY 11219",,核酸测试 （Nucleic acid test）,2020/9/16 11:57,2020/9/19 16:57,,,,,否,不需要,0,不需要，walk in 即可,做测试的时间是9/16，但collection date显示却是9/17,,,,,,,,,
-Raymöne :),2020/9/24 10:30:44,纽约州，纽约,NYC Health+Hospital/ Bensonhurst,"6315 14th Ave, Brooklyn, NY 11219",,核酸测试 （Nucleic acid test）,2020/8/20 15:27,2020/9/21 14:53,,,,,否,不需要,0,不需要，walk in 即可,历时！一个月！才出的result，认真的！一个月！ 如果是为了拿核酸码，强烈不推荐在这里做！时效偏差比较严重，唯一好处是室外空地，位置宽，完全不需要排队,,,,,,,,,
-suniuz,2020/9/8 11:02:32,纽约州，纽约,New York Doctors Urgent Care,"65 West 13th Street, New York, 10011",,核酸测试 （Nucleic acid test）,2020/9/6 10:28,2020/9/7 15:00,,,,,否,不需要,0,不需要，walk in 即可,网站的电子版报告比较简陋，建议去现场取一份纸质报告,,,,,,,,,
-suniuz,2020/9/8 11:00:38,纽约州，纽约,NYU Langone Tisch Hospital,"550 1st Ave, New York, NY 10016",2122635800,核酸测试 （Nucleic acid test）,2020/9/7 10:00,2020/9/7 16:06,,2020/9/7 17:40,2020/9/7 18:40,2020/9/13 23:59,否,需要,125,需要，建议预约,,,,,,,,,,
-大🐱为重,2020/8/26 2:28:56,纽约州，纽约,NYU Langone Health,"550 1st, Avenue, Ground Floor, 
-MSB Building(Yellow Pathway), New York, NY 10016",(646) 929-7800,核酸测试 （Nucleic acid test）,2020/8/22 16:38,2020/8/23 17:38,,,,,否,需要,126,需要，建议预约,先打电话，跟他们说要做核酸检测，然后会让下载APP，并在APP上完成注册，无医保需要付费，然后会再进行一次视频预约，医生确认你需要travel所以需要检测就会让过，然后可以预约地点和时间。我是周六预约的，只有曼哈顿一个地方的，长岛的当时已经预约完了。然后就到时候去就行了，全程不用碰触任何东西。结束后24-48h内给结果。我是25h左右给的。,,,,,,,,,
-加糖,2020/9/4 2:41:54,纽约州，纽约,The Mount Sinai Hospital ,"10 Union Square E, New York, NY 10003, United States",212-420-2000,核酸测试 （Nucleic acid test）,2020/8/31 11:31,2020/9/1 0:15,,2020/9/1 14:17,2020/9/1 15:31,2020/9/7 23:59,否,需要,125,不需要，walk in 即可,核酸码过期时间为北京时间，其它时间为当地时间。大韩航空表示最好拿到有主治医师签字的核酸证明，但目前在mychart上得到的电子结果仍可使用。,,,,,,,,,
-夔雅,2020/9/14 9:19:41,纽约州，纽约,NYC Health+Hospitals/Bellevue,"462 1st Avenue
-New York, NY 10016",(212)562-4141,核酸测试 （Nucleic acid test）,2020/9/8 8:50,2020/9/9 14:39,,,,,否,不需要,0,不需要，walk in 即可,公立大医院，医生护士的态度都非常好。不需医保无需费用，出结果也很快。非常推荐！唯一缺点是这家开门时间较早而下班时间较晚，我在开门前半小时到已经有7人左右了。第一次去会慢一点因为要录入信息，检测过程则非常快，不超过3分钟……出结果也很快，第二天就出了！,,,,,,,,,
-夔雅,2020/9/15 22:06:09,纽约州，纽约,NYC Health+Hospitals/Bellevue,"462 1st Avenue
-New York, NY 10016",(212)562-4141,核酸测试 （Nucleic acid test）,2020/9/12 9:04,2020/9/13 14:40,,2020/9/13 17:20,2020/9/13 19:17,2020/9/20 2:59,否,不需要,0,不需要，walk in 即可,"楼上的Bellevue是我提交的。 这不我又来了…这次可以讲一下纽约公立NYC Health+系列医院核酸码的提交。首先如果你在纽约公立医院检测的话，第一次去他们一定给你注册码发到你邮箱让你注册MyChart。当医院通知你测试结果有了之后，登录MyChart后在上面Health菜单里找到Document Center, 然后点击Visit Records这个大类，Download你出结果的那一次访问。（点击download后会需要process一段时间，但一般半分钟后刷新一下页面就可以看到下载选项了）下载下来的PDF就是你可以用来上传的报告了，我上传了PDF的第一页就通过了（含自己姓名住址电话邮箱以及最近一次检测报告的那页）发到自己微信上传就可以了。不放心的可以把所有页面都上传。我的核酸码两小时不到就给了，而且给了好多天……感谢使馆工作人员辛苦了。祝大家顺利~",,,,,,,,,
-雨君子,2020/10/4 9:47:28, 纽约州，纽约,NYC Health + Hospitals Mobile testing site,"462 First Avenue
+注意工作日是周一到周五,每天晚上12点左右会更新新的预约."
+Chlorophyll,2020/9/11 9:34,纽约州，纽约,NYU Langone Health,"550 1st Avenue, New York NY 10016",646-929-7800,核酸测试 （Nucleic acid test）,2020/9/10 10:50,2020/9/10 16:14,,2020/9/10 16:42,2020/9/10 18:13,2020/9/16 14:59,否,需要,126,需要，建议预约,核酸码有效期为北京时间，其他均为美东时间
+kame的小小咩,2020/9/18 5:06,纽约州，纽约,NYC Health+ Hospitals/Woodhull,"760 Broadway, Brooklyn, 11206",718-963-8000,核酸测试 （Nucleic acid test）,2020/9/16 14:38,2020/9/17 14:42,,2020/9/17 15:31,2020/9/17 15:44,2020/9/21 2:59,是,,0,不需要，walk in 即可,
+llcc,2020/9/29 6:54,纽约州，纽约,NYC Health Clinics (COVID-19 Express Testing Site),"3433 Junction Blvd, Jackson Heights, NY 11372",,核酸测试 （Nucleic acid test）,2020/9/28 10:12,2020/9/28 13:20,,2020/9/28 13:38,2020/9/28 16:30,2020/10/2 14:59,否,不需要,0,需要，建议预约,测试点不允许非测试者进入，但是会为不懂英语的老人安排tele-translator。结果也是在mychart里面看到，但是检测报告不像NYC Health+ Hospital系统那样可以在visit records里download到详细报告，只能从Test Results打印检测结果页面，不含检测机构名称和检测机构电话。虽然最终还是获得了HS码，但是用时比其它记录要长，所以大家还是要自行衡量风险
+Raymöne :),2020/9/3 2:40,纽约州，纽约,NYC Health+Hospital/ Bensonhurst,"6315 14th Ave, Brooklyn, NY 11219",,核酸测试 （Nucleic acid test）,2020/8/30 15:40,2020/9/2 5:49,,,,,否,不需要,0,不需要，walk in 即可,这次是第二次同一个site测试，第一次测试样本被丢失，13天依旧没出结果
+Raymöne :),2020/9/24 10:27,纽约州，纽约,NYC Health+Hospital/ Bensonhurst,"6315 14th Ave, Brooklyn, NY 11219",,核酸测试 （Nucleic acid test）,2020/9/16 11:57,2020/9/19 16:57,,,,,否,不需要,0,不需要，walk in 即可,做测试的时间是9/16，但collection date显示却是9/17
+Raymöne :),2020/9/24 10:30,纽约州，纽约,NYC Health+Hospital/ Bensonhurst,"6315 14th Ave, Brooklyn, NY 11219",,核酸测试 （Nucleic acid test）,2020/8/20 15:27,2020/9/21 14:53,,,,,否,不需要,0,不需要，walk in 即可,历时！一个月！才出的result，认真的！一个月！ 如果是为了拿核酸码，强烈不推荐在这里做！时效偏差比较严重，唯一好处是室外空地，位置宽，完全不需要排队
+suniuz,2020/9/8 11:02,纽约州，纽约,New York Doctors Urgent Care,"65 West 13th Street, New York, 10011",,核酸测试 （Nucleic acid test）,2020/9/6 10:28,2020/9/7 15:00,,,,,否,不需要,0,不需要，walk in 即可,网站的电子版报告比较简陋，建议去现场取一份纸质报告
+suniuz,2020/9/8 11:00,纽约州，纽约,NYU Langone Tisch Hospital,"550 1st Ave, New York, NY 10016",2122635800,核酸测试 （Nucleic acid test）,2020/9/7 10:00,2020/9/7 16:06,,2020/9/7 17:40,2020/9/7 18:40,2020/9/13 23:59,否,需要,125,需要，建议预约,
+大🐱为重,2020/8/26 2:28,纽约州，纽约,NYU Langone Health,"550 1st, Avenue, Ground Floor, 
+MSB Building(Yellow Pathway), New York, NY 10016",(646) 929-7800,核酸测试 （Nucleic acid test）,2020/8/22 16:38,2020/8/23 17:38,,,,,否,需要,126,需要，建议预约,先打电话，跟他们说要做核酸检测，然后会让下载APP，并在APP上完成注册，无医保需要付费，然后会再进行一次视频预约，医生确认你需要travel所以需要检测就会让过，然后可以预约地点和时间。我是周六预约的，只有曼哈顿一个地方的，长岛的当时已经预约完了。然后就到时候去就行了，全程不用碰触任何东西。结束后24-48h内给结果。我是25h左右给的。
+加糖,2020/9/4 2:41,纽约州，纽约,The Mount Sinai Hospital ,"10 Union Square E, New York, NY 10003, United States",212-420-2000,核酸测试 （Nucleic acid test）,2020/8/31 11:31,2020/9/1 0:15,,2020/9/1 14:17,2020/9/1 15:31,2020/9/7 23:59,否,需要,125,不需要，walk in 即可,核酸码过期时间为北京时间，其它时间为当地时间。大韩航空表示最好拿到有主治医师签字的核酸证明，但目前在mychart上得到的电子结果仍可使用。
+夔雅,2020/9/14 9:19,纽约州，纽约,NYC Health+Hospitals/Bellevue,"462 1st Avenue
+New York, NY 10016",(212)562-4141,核酸测试 （Nucleic acid test）,2020/9/8 8:50,2020/9/9 14:39,,,,,否,不需要,0,不需要，walk in 即可,公立大医院，医生护士的态度都非常好。不需医保无需费用，出结果也很快。非常推荐！唯一缺点是这家开门时间较早而下班时间较晚，我在开门前半小时到已经有7人左右了。第一次去会慢一点因为要录入信息，检测过程则非常快，不超过3分钟……出结果也很快，第二天就出了！
+夔雅,2020/9/15 22:06,纽约州，纽约,NYC Health+Hospitals/Bellevue,"462 1st Avenue
+New York, NY 10016",(212)562-4141,核酸测试 （Nucleic acid test）,2020/9/12 9:04,2020/9/13 14:40,,2020/9/13 17:20,2020/9/13 19:17,2020/9/20 2:59,否,不需要,0,不需要，walk in 即可,"楼上的Bellevue是我提交的。 这不我又来了…这次可以讲一下纽约公立NYC Health+系列医院核酸码的提交。首先如果你在纽约公立医院检测的话，第一次去他们一定给你注册码发到你邮箱让你注册MyChart。当医院通知你测试结果有了之后，登录MyChart后在上面Health菜单里找到Document Center, 然后点击Visit Records这个大类，Download你出结果的那一次访问。（点击download后会需要process一段时间，但一般半分钟后刷新一下页面就可以看到下载选项了）下载下来的PDF就是你可以用来上传的报告了，我上传了PDF的第一页就通过了（含自己姓名住址电话邮箱以及最近一次检测报告的那页）发到自己微信上传就可以了。不放心的可以把所有页面都上传。我的核酸码两小时不到就给了，而且给了好多天……感谢使馆工作人员辛苦了。祝大家顺利~"
+雨君子,2020/10/4 9:47, 纽约州，纽约,NYC Health + Hospitals Mobile testing site,"462 First Avenue
 New York, New York 10016
 ",212-562-5555,核酸测试 （Nucleic acid test）,2020/10/1 14:00,2020/10/3 10:30,,2020/10/3 11:37,2020/10/3 11:37,2020/10/7 14:59,否,不需要,0,不需要，walk in 即可,"推荐mobile testing site，开放空间，人少https://www.nychealthandhospitals.org/covid-19-testing-sites/?redirect&notification
 这家挺多检测地点的，2-3天出结果，我们是45个小时左右出的
-有同学提供的快速测试的网页24小时出结果，大家可以试试",,,,,,,,,
-夔雅,2020/9/14 9:37:48,纽约州，纽约,"NYC Health + Hospitals/Gotham Health, Gouverneur","227 Madison Street
+有同学提供的快速测试的网页24小时出结果，大家可以试试"
+夔雅,2020/9/14 9:37,纽约州，纽约,"NYC Health + Hospitals/Gotham Health, Gouverneur","227 Madison Street
 New York, New York 10002",(212)238-7897,核酸测试 （Nucleic acid test）,2020/9/9 9:38,2020/9/10 1:53,,,,,否,不需要,0,需要，建议预约,"纽约的公立医院NYC Health + Hospitals系列都是免费的。小伙伴可以不需预约自行前往。这家地理位置稍微偏一点，在Chinatown东南角。开门时间说是9点钟，但是我8点30到的时候发现前面有大概6个人并已经在登记了。排队的时候会给你单子填写，和Bellevue那家比起来会更加效率一点。
-万万没想到的是他们结果出来更快……第二天半夜1点53就出了。为了确保核酸码能落在起飞前的三天内，我跑了很多次。经验告诉我公立医院一般都非常快，虽然排队会是比较痛苦的选择，各位自行定夺了。",,,,,,,,,
-其善,2020/8/26 6:44:37,纽约州，纽约,NYC Health+Hospitals/ Elmhurst,"79-01 Broadway, Elmhurst, NY 11373",718-334-4000,核酸测试 （Nucleic acid test）,2020/8/23 10:11,2020/8/24 14:54,,2020/8/24 17:59,2020/8/25 21:59,2020/8/31 0:59,否,不需要,0,不需要，walk in 即可,我之前貌似查到在NYC Health+ Hospitals 系统里的医院都是不用预约而且免费的，把医院地址Google 一下，就会有Covid-19 testing requirement的信息。另外测试时，他们说3-5天出结果，但我的结果花了一天，我女朋友的花了两天，而且感觉去做测试的人还蛮少的。,,,,,,,,,
-任辛夷,2020/9/4 8:20:58,纽约州，纽约,"NYC Health+Hospitals/Gotham Health, Woodside","50-53 Newtown Rd, Queens, NY 11377",+1 844-692-4692,核酸测试 （Nucleic acid test）,2020/8/27 12:06,2020/8/29 7:16,,,2020/8/29 16:01,2020/9/5 11:59,否,不需要,0,不需要，walk in 即可,"1.NYC Health+Hospitals的免费测试点每周会变化，可以上nyc.gov/covidtest查看本周的地点，是实时准确的；Woodside这家很大，好像也很稳定
+万万没想到的是他们结果出来更快……第二天半夜1点53就出了。为了确保核酸码能落在起飞前的三天内，我跑了很多次。经验告诉我公立医院一般都非常快，虽然排队会是比较痛苦的选择，各位自行定夺了。"
+其善,2020/8/26 6:44,纽约州，纽约,NYC Health+Hospitals/ Elmhurst,"79-01 Broadway, Elmhurst, NY 11373",718-334-4000,核酸测试 （Nucleic acid test）,2020/8/23 10:11,2020/8/24 14:54,,2020/8/24 17:59,2020/8/25 21:59,2020/8/31 0:59,否,不需要,0,不需要，walk in 即可,我之前貌似查到在NYC Health+ Hospitals 系统里的医院都是不用预约而且免费的，把医院地址Google 一下，就会有Covid-19 testing requirement的信息。另外测试时，他们说3-5天出结果，但我的结果花了一天，我女朋友的花了两天，而且感觉去做测试的人还蛮少的。
+任辛夷,2020/9/4 8:20,纽约州，纽约,"NYC Health+Hospitals/Gotham Health, Woodside","50-53 Newtown Rd, Queens, NY 11377",+1 844-692-4692,核酸测试 （Nucleic acid test）,2020/8/27 12:06,2020/8/29 7:16,,,2020/8/29 16:01,2020/9/5 11:59,否,不需要,0,不需要，walk in 即可,"1.NYC Health+Hospitals的免费测试点每周会变化，可以上nyc.gov/covidtest查看本周的地点，是实时准确的；Woodside这家很大，好像也很稳定
 2.我去过Long Island City和Woodside两家，都是上午去，都没有排队，甚至没有很多其他人，基本无等待时间，交叉感染风险也很小
 3.测试的时候工作人员会告诉你出结果需要5-7天（或7-10天），但我两次都是一天半就会出结果
-4.我有朋友也在Gotham做核酸，但是出来结果是not detected，据说通过不了核酸码，保险起见可以多做几家",,,,,,,,,
-韦祖道一マダオ,2020/9/27 20:51:17,纽约州，纽约,CVS,"153-01 10th Ave, Whitestone, NY 11357",,核酸测试 （Nucleic acid test）,2020/9/23 9:30,2025/9/25 1:50,,2020/9/25 8:10,2020/9/25 10:35,2020/9/29 14:59,否,不需要,0,需要，建议预约,为了保险起见做了4个，CVS做了两次，都是一天多就出来，NYC hospital有的移动检测点说是3到5天出结果其实也是1天，另外纽约有rapid testing的点，保证24小时出结果，都是不用保险的。rapid testing要预约，mobile site不用。还有Welgreens在Fransics lewis上面那个点已经关了，但不知道为什么还能预约。搞不懂。总之，在纽约测很方便也不要钱。,,,,,,,,,
-笑颜,2020/9/4 22:44:40,纽约州，纽约,"NYC Health+Hospitals/Gotham Health, Woodside","50-53 Newtown Rd, Woodside, NY 11377",,核酸测试 （Nucleic acid test）,2020/9/2 9:45,2020/9/3 6:37,,,,,否,不需要,0,不需要，walk in 即可,检测的时候问医生说最快3天出报告，结果不到24h就出了，周围还有个朋友也是1天出结果。,,,,,,,,,
-笑颜,2020/9/7 6:40:24,纽约州，纽约,"NYC Health+Hospitals/Gotham Health, Woodside","50-53 Newtown Road Woodside, New York 11377",,核酸测试 （Nucleic acid test）,2020/9/4 15:45,2020/9/6 17:52,,2020/9/6 18:00,2020/9/6 18:05,2020/9/12 23:59,否,不需要,0,不需要，walk in 即可,,,,,,,,,,
-心月狐,2020/9/11 17:20:07,纽约州，纽约,NYC Health+Hospitals/ Elmhurst,"79-01 Broadway, Elmhurst, NY 11373",718-334-4000,核酸测试 （Nucleic acid test）,2020/9/2 11:27,2020/9/3 9:43,,2020/9/3 9:43,2020/9/3 13:05,2020/9/8 0:00,否,不需要,0,不需要，walk in 即可,整个NYC Health + 系统的测试都免费。虽然回答口径都是3-5天出结果，但是我从8.31连续三天做测试，均在24h拿到报告,,,,,,,,,
-正在努力,2020/9/9 10:29:22,纽约州，纽约,Walgreens,"27-07 Francis Lewis Blvd, Queens, NY 11358",,核酸测试 （Nucleic acid test）,2020/9/5 11:15,2020/9/6 16:06,,,,,否,不需要,0,需要，建议预约,Drive through,,,,,,,,,
-正在努力,2020/9/9 10:27:08,纽约州，纽约,"NYC Health+Hospitals/Gotham Health, Cumberland","100 N Portland Ave, Brooklyn, NY 11205",,核酸测试 （Nucleic acid test）,2020/9/7 11:44,2020/9/8 20:38,,,,,否,不需要,0,不需要，walk in 即可,,,,,,,,,,
-Alfred,2020/8/27 21:03:19,"乔治亚州,亚特兰大",Certivia Laboratories Lic,"2166 W Park Ct Suite E/F, Stone Mountain, GA 30087",7706962522,核酸测试 （Nucleic acid test）,2020/8/22 11:30,2020/8/23 12:00,1 ,2020/8/23 12:10,2020/8/23 14:25,2020/8/30 12:00,否,需要,150,需要，建议预约,要在3天内出结果需付50刀加急（现金）,,,,,,,,,
-mi7lin,2020/8/27 22:14:22,"乔治亚州,亚特兰大",Ipsum Diagnostics,"5597 Buford Hwy. NE, Doraville, GA 30340",(404) 294-3700 Option 1,核酸测试 （Nucleic acid test）,2020/8/20 14:00,2020/8/21 17:00,,2020/8/22 11:56,2020/8/22 12:17,,否,不需要,0,需要，建议预约,"https://www.dekalbhealth.net/ 这是预约网站，免费，不需要保险。
+4.我有朋友也在Gotham做核酸，但是出来结果是not detected，据说通过不了核酸码，保险起见可以多做几家"
+韦祖道一マダオ,2020/9/27 20:51,纽约州，纽约,CVS,"153-01 10th Ave, Whitestone, NY 11357",,核酸测试 （Nucleic acid test）,2020/9/23 9:30,2025/9/25 1:50,,2020/9/25 8:10,2020/9/25 10:35,2020/9/29 14:59,否,不需要,0,需要，建议预约,为了保险起见做了4个，CVS做了两次，都是一天多就出来，NYC hospital有的移动检测点说是3到5天出结果其实也是1天，另外纽约有rapid testing的点，保证24小时出结果，都是不用保险的。rapid testing要预约，mobile site不用。还有Welgreens在Fransics lewis上面那个点已经关了，但不知道为什么还能预约。搞不懂。总之，在纽约测很方便也不要钱。
+笑颜,2020/9/4 22:44,纽约州，纽约,"NYC Health+Hospitals/Gotham Health, Woodside","50-53 Newtown Rd, Woodside, NY 11377",,核酸测试 （Nucleic acid test）,2020/9/2 9:45,2020/9/3 6:37,,,,,否,不需要,0,不需要，walk in 即可,检测的时候问医生说最快3天出报告，结果不到24h就出了，周围还有个朋友也是1天出结果。
+笑颜,2020/9/7 6:40,纽约州，纽约,"NYC Health+Hospitals/Gotham Health, Woodside","50-53 Newtown Road Woodside, New York 11377",,核酸测试 （Nucleic acid test）,2020/9/4 15:45,2020/9/6 17:52,,2020/9/6 18:00,2020/9/6 18:05,2020/9/12 23:59,否,不需要,0,不需要，walk in 即可,
+心月狐,2020/9/11 17:20,纽约州，纽约,NYC Health+Hospitals/ Elmhurst,"79-01 Broadway, Elmhurst, NY 11373",718-334-4000,核酸测试 （Nucleic acid test）,2020/9/2 11:27,2020/9/3 9:43,,2020/9/3 9:43,2020/9/3 13:05,2020/9/8 0:00,否,不需要,0,不需要，walk in 即可,整个NYC Health + 系统的测试都免费。虽然回答口径都是3-5天出结果，但是我从8.31连续三天做测试，均在24h拿到报告
+正在努力,2020/9/9 10:29,纽约州，纽约,Walgreens,"27-07 Francis Lewis Blvd, Queens, NY 11358",,核酸测试 （Nucleic acid test）,2020/9/5 11:15,2020/9/6 16:06,,,,,否,不需要,0,需要，建议预约,Drive through
+正在努力,2020/9/9 10:27,纽约州，纽约,"NYC Health+Hospitals/Gotham Health, Cumberland","100 N Portland Ave, Brooklyn, NY 11205",,核酸测试 （Nucleic acid test）,2020/9/7 11:44,2020/9/8 20:38,,,,,否,不需要,0,不需要，walk in 即可,
+Alfred,2020/8/27 21:03,"乔治亚州,亚特兰大",Certivia Laboratories Lic,"2166 W Park Ct Suite E/F, Stone Mountain, GA 30087",7706962522,核酸测试 （Nucleic acid test）,2020/8/22 11:30,2020/8/23 12:00,1,2020/8/23 12:10,2020/8/23 14:25,2020/8/30 12:00,否,需要,150,需要，建议预约,要在3天内出结果需付50刀加急（现金）
+mi7lin,2020/8/27 22:14,"乔治亚州,亚特兰大",Ipsum Diagnostics,"5597 Buford Hwy. NE, Doraville, GA 30340",(404) 294-3700 Option 1,核酸测试 （Nucleic acid test）,2020/8/20 14:00,2020/8/21 17:00,,2020/8/22 11:56,2020/8/22 12:17,,否,不需要,0,需要，建议预约,"https://www.dekalbhealth.net/ 这是预约网站，免费，不需要保险。
 
 地点在亚特兰大I-85和I-285交界处，famer's market路对面，地方很好找，可以drive through也可以步行进去检测。预约之后等几个小时会收到确认邮件，包含一个二维码，去了现场他会扫码（都没要我出示ID）。由于系统不稳定，没收到确认邮件也没关系，预约好了到时间直接去，他会问你名字生日.
 
-客服回答5-7工作日出结果，测试现场的说明写的3-5工作日，但我测了两次都是第二天出结果（所以第一次出太快了都在五天以外了哈哈）",,,,,,,,,
-Feng He,2020/9/29 6:36:45,威斯康星，麦迪逊,Alliant Energy Center,"1919 Alliant Energy Center Way, Madison, WI 53713",608-266-4821,核酸测试 （Nucleic acid test）,2020/9/22 8:10,2020/9/24 13:35,,2020/9/24 15:00,2020/9/24 19:30,2020/9/28 14:59,否,不需要,0,不需要，walk in 即可,由于 Alliant Energy Center 提供的网上结果只有出生日期，没有本人姓名和检测类型， 需要在检测完（不用等到出结果）向Public Heath Madison & Dane County 发电子邮件（COVIDTestResults@publichealthmdc.com）索要实验室结果原件（不含额外费用）。可以提前向Public Heath Madison & Dane County 询问最佳检测日期来确保出结果的日期满足72小时的赴华乘客核酸检测措施的时间要求。,,,,,,,,,
-你栗,2020/9/5 22:00:39,威斯康星，Sheboygan,Lakeshore Community Health Care,"1721 Saemann Ave,Sheboygan,WI 53081",9207836633,核酸测试 （Nucleic acid test）,2020/9/2 10:30,2020/9/4 12:22,,2020/9/3 18:00,,2020/9/11 0:59,否,不需要,0,需要，建议预约,,,,,,,,,,
-AMY🐱,2020/8/27 8:49:55,新泽西州,Infocus Urgent Care,"335 George St, New Brunswick, NJ 08901",6097997009,核酸测试 （Nucleic acid test）,2020/8/14 15:30,2020/8/18 11:00,4 ,,,,否,需要,100,需要，建议预约,原价125刀，我的保险可以cover25刀，8.14正好为周五，lab周末休息,,,,,,,,,
-Lucy🍃,2020/8/27 9:53:18,新泽西州,Sante Integrative Pharmacy,"200 Nassau St, Princeton, NJ 08542",,核酸测试 （Nucleic acid test）,2020/8/20 12:00,2020/8/21 23:59,1 ,,,,,,0,需要，建议预约,,,,,,,,,,
-piu~,2020/8/27 8:40:38,新泽西州,Hackensack Meridian Urgent Care-Piscataway,"1080 Stelton Rd. Piscataway, NJ 08854",(848)230-6802,核酸测试 （Nucleic acid test）,2020/8/21 9:30,2020/8/24 14:00,3 ,2020/8/24 14:00,,,是,,0,不需要，walk in 即可,"貌似样本送去的实验室不一样，如果送去MyQuest，则需要有ssn才能自行收邮件，否则要去诊所自取纸板报告，去之前可以先打电话查结果；本人有保险没ssn,没收费；身边也有人没有保险但有ssn,也没收费；两样都没有不确定收不收费。",,,,,,,,,
-Renke,2020/8/28 22:31:00,新泽西州,CVS Pharmacy,"2257 US-1, North Brunswick Township, NJ 08823",,核酸测试 （Nucleic acid test）,2020/8/26 3:16,2020/8/28 9:16,,,,,否,不需要,0,需要，建议预约,检测结果上只有一个日期，就是检测采样日期 (8/26 3:16pm)，所以如果提交核酸码的话也只能用这个日期,,,,,,,,,
-灵魂的空间,2020/8/27 12:50:00,新泽西州,AFC Urgent Care,"1140 NJ-34, Matawan, NJ 07747",7325835100,核酸测试 （Nucleic acid test）,2020/8/25 17:20,2020/8/26 18:10,,2020/8/26 18:40,2020/8/26 20:20,2020/9/2 23:59,否,不需要,0,不需要，walk in 即可,我去的时间点诊所都没有人，减少了感染的风险。结果出来之后会直接给你打电话。可以选择直接去拿，也可以在网上打印。但是我是直接去拿的，因为在网站没给我发结果。,,,,,,,,,
-Xin Zou 邹鑫,2020/9/6 23:51:37,新泽西州,SMG-CityMD,"231 WASHINGTON ST, HOBOKEN, NJ 07031",201-754-1006,核酸测试 （Nucleic acid test）,2020/9/2 8:10,2020/9/5 19:32,,,,,否,不需要,0,不需要，walk in 即可,需要身份证件，可用美国驾照（其他证件我没试）,,,,,,,,,
-严宵寒,2020/8/27 9:14:33,新泽西州,Brunswick urgent care,"3185 NJ-27, Franklin Park, NJ 08823",,核酸测试 （Nucleic acid test）,2020/8/21 15:00,2020/8/23 0:48,2 ,,,,,,0,需要，建议预约,,,,,,,,,,
-保安,2020/10/2 11:24:51,新泽西州,NJ Primary Care,"145 Harborside, Plaza 2, Jersey city, NJ 07311",,核酸测试 （Nucleic acid test）,2020/9/23 13:57,2020/9/24 18:06,,,,,是,,0,需要，建议预约,,,,,,,,,,
-罗🌟💫,2020/8/28 7:48:27,亚利桑那州，凤凰城,Embry Women's Health,"1833 W Southern Ave,Mesa,AZ,85202",4803762170,核酸测试 （Nucleic acid test）,2020/8/19 10:00,2020/8/21 14:24,,2020/8/21 14:30,2020/8/21 14:37,2020/8/27 14:59,否,不需要,0,需要，建议预约,仅核酸码有效期为北京时间其余为az时间。报告上的reported时间为20号22:48,,,,,,,,,
-泰迪吴,2020/9/5 13:36:04,亚利桑那州，凤凰城,New Life healthy clinic,"3029 Alma School, suit 109, chandler",,核酸测试 （Nucleic acid test）,2020/8/25 10:00,2020/8/26 9:30,,2020/8/26 14:30,2020/8/26 19:30,2020/9/2 14:30,否,需要,103,需要，建议预约,,,,,,,,,,
-C.C.沙小浪,2020/9/23 3:40:34,伊利诺伊州，芝加哥,loop medical center,"432 E Grand Ave Ste C, Chicago, IL 60611",(312) 414-1088,"核酸测试 （Nucleic acid test）, 抗体测试（AntiBodies)",2020/9/15 15:00,2020/9/17 15:00,,,,,否,需要,210,需要，建议预约,可预约也可walk in，预约节省时间。说是1到4个工作日出报告，大多数都是2天就出报告了。,,,,,,,,,
-Q.,2020/8/31 1:59:42,伊利诺伊州，芝加哥,loop medical center,"432 E Grand Ave, Suite C
-Chicago, IL 60611",,核酸测试 （Nucleic acid test）,2020/8/28 11:40,2020/8/30 8:55,,2020/8/30 10:00,2020/8/30 10:30,2020/9/6 0:00,否,需要,99,需要，建议预约,看到有人周五检测周一出结果，我周五去检测，医生说周一周二出结果，实际周日一早收到结果,,,,,,,,,
-Q.,2020/9/2 4:16:20,伊利诺伊州，芝加哥,Westmont,"29 N Cass Ave., Westmont, IL 60559",,核酸测试 （Nucleic acid test）,2020/8/30 15:00,2020/8/30 23:59,,,,,是,需要,250,需要，建议预约,位置较偏，网站提前一天早上预约检测。报告只有日期没有时间。电话咨询24-48h，实际当天出结果。报告说发到邮箱，一直没有收到，几天后打过电话才收到结果，是当天就出了的。,,,,,,,,,
-Stella Liu,2020/9/20 1:56:14,伊利诺伊州，芝加哥,Physicians Immediate Care,有很多分部 https://physiciansimmediatecare.com/locations/?gclid=EAIaIQobChMIpeLSmOT16wIVDtvACh0o0AjfEAAYASAAEgJurPD_BwE,,核酸测试 （Nucleic acid test）,2020/9/19 9:30,2020/9/19 9:53,,2020/9/19 11:47,2020/9/19 12:09,2020/9/24 2:59,否,需要,240,需要，建议预约,这个医院算是有点高端的，适合没有保险或者很着急要走的朋友。上面核算码获得时间是美国时间，失效时间是北京时间哦！但是20分钟出报告 很赞啊！,,,,,,,,,
-你栗,2020/9/13 23:25:10,伊利诺伊州，芝加哥,National Clinical Labs,"2446 West Devon Avenue,Chicago,IL 60659",7735216666,核酸测试 （Nucleic acid test）,2020/9/9 15:04,2020/9/9 15:15,,2020/9/10 10:40,2020/9/10 11:00,2020/9/15 0:59,否,需要,25,不需要，walk in 即可,"距Ohare机场半小时车程左右，十分钟就可以出报告【9/23更新，隔天出报告】，自己捅鼻子.但是离机场大概十分钟车程左右也有一个West Devon Avenue，就不是在Chicago,所以导航输地址时一定要记得输入Chicago",,,,,,,,,
-一碗鱼丸粗面,2020/9/2 12:35:35,伊利诺伊州，芝加哥,Frances Nelson Health Center,"819 Bloomington Rd, 61820-2102",,核酸测试 （Nucleic acid test）,2020/8/25 16:00,2020/9/27 12:33,,,,,否,不需要,0,需要，建议预约,,,,,,,,,,
-李晓明,2020/9/30 8:57:03,伊利诺伊州，芝加哥,Northwestern Medicine Immediate Care Evanston,"1704 Maple Ave. Suite 100. Evanston, IL 60201.",312.694.2273,核酸测试 （Nucleic acid test）,2020/9/24 9:22,2020/9/24 19:56,,2020/9/24 20:30,2020/9/24 20:45,2020/9/27 23:59,是,需要,0,不需要，walk in 即可,这是Northwestern Medicine在Evanston的一个分支，非常方便西北大学主校区的学生，样本会送到总院NM Memorial Hospital检验。检测之前需要网上预约要Doctor order，另外也会有Staff打电话过来登记保险信息，之后会在邮箱里发一个注册MyChart链接，用于查收电子版的检测报告。拿到Doctor order之后，随时过去都可以检测。我去做了两次，都不用排队，一次周二下午2点去的，结果周三中午就出报告了，比官方说的3-5个工作日快了很多，没有达到航班的要求... 重新要了医嘱后，第二次周四上午9点去，周四晚上8点就拿到报告，微信提交后10分钟左右就拿到了核酸码。PS.要医嘱的时候，医生会优先推荐Chicago downtown检测点，那个离Lab更近出结果估计会更快，如果不想路上奔波，可以说自己prefer离自己近的检测点，这样医嘱上就没有明确的检测点信息，去哪个检测点都可以。,,,,,,,,,
-🍑陶子,2020/9/19 0:12:20,印第安纳州,ISDH/Optum Test Site - 1200 N Salisbury,"1200 N Salisbury, West Lafayette, IN 47906",888-634-1116,核酸测试 （Nucleic acid test）,2020/9/15 9:20,2020/9/28 7:00,,2020/9/18 11:43,2020/9/18 11:49,2020/9/23 2:59,否,不需要,0,需要，建议预约,"第一次做检测前一定要在官网注册，获取patient ID。在检测点时要提供patient ID 和 photo ID。
+客服回答5-7工作日出结果，测试现场的说明写的3-5工作日，但我测了两次都是第二天出结果（所以第一次出太快了都在五天以外了哈哈）"
+Feng He,2020/9/29 6:36,威斯康星，麦迪逊,Alliant Energy Center,"1919 Alliant Energy Center Way, Madison, WI 53713",608-266-4821,核酸测试 （Nucleic acid test）,2020/9/22 8:10,2020/9/24 13:35,,2020/9/24 15:00,2020/9/24 19:30,2020/9/28 14:59,否,不需要,0,不需要，walk in 即可,由于 Alliant Energy Center 提供的网上结果只有出生日期，没有本人姓名和检测类型， 需要在检测完（不用等到出结果）向Public Heath Madison & Dane County 发电子邮件（COVIDTestResults@publichealthmdc.com）索要实验室结果原件（不含额外费用）。可以提前向Public Heath Madison & Dane County 询问最佳检测日期来确保出结果的日期满足72小时的赴华乘客核酸检测措施的时间要求。
+你栗,2020/9/5 22:00,威斯康星，Sheboygan,Lakeshore Community Health Care,"1721 Saemann Ave,Sheboygan,WI 53081",9207836633,核酸测试 （Nucleic acid test）,2020/9/2 10:30,2020/9/4 12:22,,2020/9/3 18:00,,2020/9/11 0:59,否,不需要,0,需要，建议预约,
+AMY🐱,2020/8/27 8:49,新泽西州,Infocus Urgent Care,"335 George St, New Brunswick, NJ 08901",6097997009,核酸测试 （Nucleic acid test）,2020/8/14 15:30,2020/8/18 11:00,4,,,,否,需要,100,需要，建议预约,原价125刀，我的保险可以cover25刀，8.14正好为周五，lab周末休息
+Lucy🍃,2020/8/27 9:53,新泽西州,Sante Integrative Pharmacy,"200 Nassau St, Princeton, NJ 08542",,核酸测试 （Nucleic acid test）,2020/8/20 12:00,2020/8/21 23:59,1,,,,,,0,需要，建议预约,
+piu~,2020/8/27 8:40,新泽西州,Hackensack Meridian Urgent Care-Piscataway,"1080 Stelton Rd. Piscataway, NJ 08854",(848)230-6802,核酸测试 （Nucleic acid test）,2020/8/21 9:30,2020/8/24 14:00,3,2020/8/24 14:00,,,是,,0,不需要，walk in 即可,"貌似样本送去的实验室不一样，如果送去MyQuest，则需要有ssn才能自行收邮件，否则要去诊所自取纸板报告，去之前可以先打电话查结果；本人有保险没ssn,没收费；身边也有人没有保险但有ssn,也没收费；两样都没有不确定收不收费。"
+Renke,2020/8/28 22:31,新泽西州,CVS Pharmacy,"2257 US-1, North Brunswick Township, NJ 08823",,核酸测试 （Nucleic acid test）,2020/8/26 3:16,2020/8/28 9:16,,,,,否,不需要,0,需要，建议预约,检测结果上只有一个日期，就是检测采样日期 (8/26 3:16pm)，所以如果提交核酸码的话也只能用这个日期
+灵魂的空间,2020/8/27 12:50,新泽西州,AFC Urgent Care,"1140 NJ-34, Matawan, NJ 07747",7325835100,核酸测试 （Nucleic acid test）,2020/8/25 17:20,2020/8/26 18:10,,2020/8/26 18:40,2020/8/26 20:20,2020/9/2 23:59,否,不需要,0,不需要，walk in 即可,我去的时间点诊所都没有人，减少了感染的风险。结果出来之后会直接给你打电话。可以选择直接去拿，也可以在网上打印。但是我是直接去拿的，因为在网站没给我发结果。
+Xin Zou 邹鑫,2020/9/6 23:51,新泽西州,SMG-CityMD,"231 WASHINGTON ST, HOBOKEN, NJ 07031",201-754-1006,核酸测试 （Nucleic acid test）,2020/9/2 8:10,2020/9/5 19:32,,,,,否,不需要,0,不需要，walk in 即可,需要身份证件，可用美国驾照（其他证件我没试）
+严宵寒,2020/8/27 9:14,新泽西州,Brunswick urgent care,"3185 NJ-27, Franklin Park, NJ 08823",,核酸测试 （Nucleic acid test）,2020/8/21 15:00,2020/8/23 0:48,2,,,,,,0,需要，建议预约,
+保安,2020/10/2 11:24,新泽西州,NJ Primary Care,"145 Harborside, Plaza 2, Jersey city, NJ 07311",,核酸测试 （Nucleic acid test）,2020/9/23 13:57,2020/9/24 18:06,,,,,是,,0,需要，建议预约,
+罗🌟💫,2020/8/28 7:48,亚利桑那州，凤凰城,Embry Women's Health,"1833 W Southern Ave,Mesa,AZ,85202",4803762170,核酸测试 （Nucleic acid test）,2020/8/19 10:00,2020/8/21 14:24,,2020/8/21 14:30,2020/8/21 14:37,2020/8/27 14:59,否,不需要,0,需要，建议预约,仅核酸码有效期为北京时间其余为az时间。报告上的reported时间为20号22:48
+泰迪吴,2020/9/5 13:36,亚利桑那州，凤凰城,New Life healthy clinic,"3029 Alma School, suit 109, chandler",,核酸测试 （Nucleic acid test）,2020/8/25 10:00,2020/8/26 9:30,,2020/8/26 14:30,2020/8/26 19:30,2020/9/2 14:30,否,需要,103,需要，建议预约,
+C.C.沙小浪,2020/9/23 3:40,伊利诺伊州，芝加哥,loop medical center,"432 E Grand Ave Ste C, Chicago, IL 60611",(312) 414-1088,"核酸测试 （Nucleic acid test）, 抗体测试（AntiBodies)",2020/9/15 15:00,2020/9/17 15:00,,,,,否,需要,210,需要，建议预约,可预约也可walk in，预约节省时间。说是1到4个工作日出报告，大多数都是2天就出报告了。
+Q.,2020/8/31 1:59,伊利诺伊州，芝加哥,loop medical center,"432 E Grand Ave, Suite C
+Chicago, IL 60611",,核酸测试 （Nucleic acid test）,2020/8/28 11:40,2020/8/30 8:55,,2020/8/30 10:00,2020/8/30 10:30,2020/9/6 0:00,否,需要,99,需要，建议预约,看到有人周五检测周一出结果，我周五去检测，医生说周一周二出结果，实际周日一早收到结果
+Q.,2020/9/2 4:16,伊利诺伊州，芝加哥,Westmont,"29 N Cass Ave., Westmont, IL 60559",,核酸测试 （Nucleic acid test）,2020/8/30 15:00,2020/8/30 23:59,,,,,是,需要,250,需要，建议预约,位置较偏，网站提前一天早上预约检测。报告只有日期没有时间。电话咨询24-48h，实际当天出结果。报告说发到邮箱，一直没有收到，几天后打过电话才收到结果，是当天就出了的。
+Stella Liu,2020/9/20 1:56,伊利诺伊州，芝加哥,Physicians Immediate Care,"811 South State St. Chicago, IL 60605",,核酸测试 （Nucleic acid test）,2020/9/19 9:30,2020/9/19 9:53,,2020/9/19 11:47,2020/9/19 12:09,2020/9/24 2:59,否,需要,240,需要，建议预约,这个医院算是有点高端的，适合没有保险或者很着急要走的朋友。上面核算码获得时间是美国时间，失效时间是北京时间哦！但是20分钟出报告 很赞啊！
+你栗,2020/9/13 23:25,伊利诺伊州，芝加哥,National Clinical Labs,"2446 West Devon Avenue,Chicago,IL 60659",7735216666,核酸测试 （Nucleic acid test）,2020/9/9 15:04,2020/9/9 15:15,,2020/9/10 10:40,2020/9/10 11:00,2020/9/15 0:59,否,需要,25,不需要，walk in 即可,"距Ohare机场半小时车程左右，十分钟就可以出报告【9/23更新，隔天出报告】，自己捅鼻子.但是离机场大概十分钟车程左右也有一个West Devon Avenue，就不是在Chicago,所以导航输地址时一定要记得输入Chicago"
+一碗鱼丸粗面,2020/9/2 12:35,伊利诺伊州，芝加哥,Frances Nelson Health Center,"819 Bloomington Rd, 61820-2102",,核酸测试 （Nucleic acid test）,2020/8/25 16:00,2020/9/27 12:33,,,,,否,不需要,0,需要，建议预约,
+李晓明,2020/9/30 8:57,伊利诺伊州，芝加哥,Northwestern Medicine Immediate Care Evanston,"1704 Maple Ave. Suite 100. Evanston, IL 60201.",312.694.2273,核酸测试 （Nucleic acid test）,2020/9/24 9:22,2020/9/24 19:56,,2020/9/24 20:30,2020/9/24 20:45,2020/9/27 23:59,是,需要,0,不需要，walk in 即可,这是Northwestern Medicine在Evanston的一个分支，非常方便西北大学主校区的学生，样本会送到总院NM Memorial Hospital检验。检测之前需要网上预约要Doctor order，另外也会有Staff打电话过来登记保险信息，之后会在邮箱里发一个注册MyChart链接，用于查收电子版的检测报告。拿到Doctor order之后，随时过去都可以检测。我去做了两次，都不用排队，一次周二下午2点去的，结果周三中午就出报告了，比官方说的3-5个工作日快了很多，没有达到航班的要求... 重新要了医嘱后，第二次周四上午9点去，周四晚上8点就拿到报告，微信提交后10分钟左右就拿到了核酸码。PS.要医嘱的时候，医生会优先推荐Chicago downtown检测点，那个离Lab更近出结果估计会更快，如果不想路上奔波，可以说自己prefer离自己近的检测点，这样医嘱上就没有明确的检测点信息，去哪个检测点都可以。
+��陶子,2020/9/19 0:12,印第安纳州,ISDH/Optum Test Site - 1200 N Salisbury,"1200 N Salisbury, West Lafayette, IN 47906",888-634-1116,核酸测试 （Nucleic acid test）,2020/9/15 9:20,2020/9/28 7:00,,2020/9/18 11:43,2020/9/18 11:49,2020/9/23 2:59,否,不需要,0,需要，建议预约,"第一次做检测前一定要在官网注册，获取patient ID。在检测点时要提供patient ID 和 photo ID。
 可以连着三天做检测，不需要预约。强烈建议上午尽早去，排队很少。下午检测点容易关门。
-检测结果网上说4-6天，实际三天后出结果。例如周一检测的周四早上七点出结果。周二检测的周五早上出结果。",,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-雨君子,2020/10/4 9:47:28, 纽约,NYC Health + Hospitals Mobile testing site,"462 First Avenue
+检测结果网上说4-6天，实际三天后出结果。例如周一检测的周四早上七点出结果。周二检测的周五早上出结果。"
+雨君子,2020/10/4 9:47, 纽约,NYC Health + Hospitals Mobile testing site,"462 First Avenue
 New York, New York 10016
 212-562-5555",,核酸测试 （Nucleic acid test）,2020/10/1 14:00,2020/10/3 10:30,,2020/10/3 11:37,2020/10/3 11:37,2020/10/7 14:59,否,不需要,0,不需要，walk in 即可,"推荐mobile testing site，开放空间，人少https://www.nychealthandhospitals.org/covid-19-testing-sites/?redirect&notification
 这家挺多检测地点的，2-3天出结果，我们是45个小时左右出的
-有同学提供的快速测试的网页24小时出结果，大家可以试试",,,,,,,,,
-No name,2020/10/4 23:56:29,纽约北,CityMD,"651 E Boston Post Rd, Mamaroneck, NY 10543",,核酸测试 （Nucleic acid test）,2020/9/27 16:00,2020/9/29 12:03,,2020/9/29 21:00,2020/9/30 10:00,2020/10/3 2:59,否,不需要,0,不需要，walk in 即可,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
+有同学提供的快速测试的网页24小时出结果，大家可以试试"
+No name,2020/10/4 23:56,纽约北,CityMD,"651 E Boston Post Rd, Mamaroneck, NY 10543",,核酸测试 （Nucleic acid test）,2020/9/27 16:00,2020/9/29 12:03,,2020/9/29 21:00,2020/9/30 10:00,2020/10/3 2:59,否,不需要,0,不需要，walk in 即可,
