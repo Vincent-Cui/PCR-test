@@ -222,7 +222,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -96.80413879999999,32.8607199 ]
+       "coordinates":  [ -96.8041388,32.8607199 ]
     },
     "properties": {
     "FIELD1":7,
@@ -253,38 +253,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "FIELD1":8,
-    "Unnamed: 0":8,
-    "提交者":"浅唱",
-    "提交时间":"2020/8/26 6:01",
-    "所在地区":"得克萨斯州，达拉斯",
-    "检测机构名称全称":"DevLab bio",
-    "完整地址":"4100 Fairway Dr #100, Carrolton, TX 75010",
-    "检测机构电话":"866-983-0667",
-    "检测类型":"核酸测试 （Nucleic acid test）",
-    "做检测时间":"2020/8/21 11:30",
-    "出报告时间":"2020/8/22 12:00",
-    "出报告耗时":1,
-    "提交核酸码的时间":"",
-    "获得核酸码的时间":"",
-    "核酸码有效期":"",
-    "需要医疗保险":"否",
-    "无医保需要付费":"需要",
-    "测试总花费":149,
-    "是否需要预约":"需要，建议预约",
-    "其他注意事项":"周六也可以出报告！！！",
-    "tel":"-",
-    "web":"-"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -84.59986909999999,39.25234469999999 ]
+       "coordinates":  [ -84.5998691,39.2523447 ]
     },
     "properties": {
     "FIELD1":9,
@@ -377,7 +346,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -86.66976009999999,33.41751 ]
+       "coordinates":  [ -86.6697601,33.41751 ]
     },
     "properties": {
     "FIELD1":12,
@@ -408,7 +377,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -80.18637319999999,25.8926369 ]
+       "coordinates":  [ -80.1863732,25.8926369 ]
     },
     "properties": {
     "FIELD1":13,
@@ -563,7 +532,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -77.09808439999999,38.9460614 ]
+       "coordinates":  [ -77.0980844,38.9460614 ]
     },
     "properties": {
     "FIELD1":18,
@@ -594,7 +563,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -76.98208269999999,38.9012797 ]
+       "coordinates":  [ -76.9820827,38.9012797 ]
     },
     "properties": {
     "FIELD1":19,
@@ -1121,7 +1090,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -121.8756583,37.34399930000001 ]
+       "coordinates":  [ -121.8756583,37.3439993 ]
     },
     "properties": {
     "FIELD1":36,
@@ -1152,7 +1121,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.0236318,37.31053199999999 ]
+       "coordinates":  [ -122.0236318,37.310532 ]
     },
     "properties": {
     "FIELD1":37,
@@ -1338,7 +1307,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -96.31455749999999,30.6413559 ]
+       "coordinates":  [ -96.3145575,30.6413559 ]
     },
     "properties": {
     "FIELD1":43,
@@ -1400,7 +1369,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.386005,37.78687980000001 ]
+       "coordinates":  [ -122.386005,37.7868798 ]
     },
     "properties": {
     "FIELD1":45,
@@ -1431,7 +1400,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -121.8756583,37.34399930000001 ]
+       "coordinates":  [ -121.8756583,37.3439993 ]
     },
     "properties": {
     "FIELD1":46,
@@ -1524,7 +1493,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -122.0236318,37.31053199999999 ]
+       "coordinates":  [ -122.0236318,37.310532 ]
     },
     "properties": {
     "FIELD1":49,
@@ -1679,7 +1648,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -76.98638249999999,38.95877950000001 ]
+       "coordinates":  [ -76.9863825,38.9587795 ]
     },
     "properties": {
     "FIELD1":54,
@@ -1741,7 +1710,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -76.8809689,38.99356179999999 ]
+       "coordinates":  [ -76.8809689,38.9935618 ]
     },
     "properties": {
     "FIELD1":56,
@@ -1834,7 +1803,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -71.21049599999999,42.3156734 ]
+       "coordinates":  [ -71.210496,42.3156734 ]
     },
     "properties": {
     "FIELD1":59,
@@ -1927,7 +1896,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -83.75836799999999,42.175896 ]
+       "coordinates":  [ -83.758368,42.175896 ]
     },
     "properties": {
     "FIELD1":62,
@@ -2206,7 +2175,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -76.1386905,43.05020409999999 ]
+       "coordinates":  [ -76.1386905,43.0502041 ]
     },
     "properties": {
     "FIELD1":71,
@@ -2237,7 +2206,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -75.04664919999999,42.4490979 ]
+       "coordinates":  [ -75.0466492,42.4490979 ]
     },
     "properties": {
     "FIELD1":72,
@@ -2299,7 +2268,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -73.97385109999999,40.742133 ]
+       "coordinates":  [ -73.9738511,40.742133 ]
     },
     "properties": {
     "FIELD1":74,
@@ -2516,7 +2485,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -73.97385109999999,40.742133 ]
+       "coordinates":  [ -73.9738511,40.742133 ]
     },
     "properties": {
     "FIELD1":81,
@@ -2539,37 +2508,6 @@
     "测试总花费":125,
     "是否需要预约":"需要，建议预约",
     "其他注意事项":"",
-    "tel":"-",
-    "web":"-"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "FIELD1":82,
-    "Unnamed: 0":82,
-    "提交者":"大🐱为重",
-    "提交时间":"2020/8/26 2:28",
-    "所在地区":"纽约州，纽约",
-    "检测机构名称全称":"NYU Langone Health",
-    "完整地址":"550 1st, Avenue, Ground Floor, \nMSB Building(Yellow Pathway), New York, NY 10016",
-    "检测机构电话":"(646) 929-7800",
-    "检测类型":"核酸测试 （Nucleic acid test）",
-    "做检测时间":"2020/8/22 16:38",
-    "出报告时间":"2020/8/23 17:38",
-    "出报告耗时":null,
-    "提交核酸码的时间":"",
-    "获得核酸码的时间":"",
-    "核酸码有效期":"",
-    "需要医疗保险":"否",
-    "无医保需要付费":"需要",
-    "测试总花费":126,
-    "是否需要预约":"需要，建议预约",
-    "其他注意事项":"先打电话，跟他们说要做核酸检测，然后会让下载APP，并在APP上完成注册，无医保需要付费，然后会再进行一次视频预约，医生确认你需要travel所以需要检测就会让过，然后可以预约地点和时间。我是周六预约的，只有曼哈顿一个地方的，长岛的当时已经预约完了。然后就到时候去就行了，全程不用碰触任何东西。结束后24-48h内给结果。我是25h左右给的。",
     "tel":"-",
     "web":"-"
     }
@@ -2671,7 +2609,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -73.97565449999999,40.7393499 ]
+       "coordinates":  [ -73.9756545,40.7393499 ]
     },
     "properties": {
     "FIELD1":86,
@@ -2702,7 +2640,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -73.98770329999999,40.7129914 ]
+       "coordinates":  [ -73.9877033,40.7129914 ]
     },
     "properties": {
     "FIELD1":87,
@@ -2795,7 +2733,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -73.80808929999999,40.7942408 ]
+       "coordinates":  [ -73.8080893,40.7942408 ]
     },
     "properties": {
     "FIELD1":90,
@@ -2919,7 +2857,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -73.7944339,40.77191980000001 ]
+       "coordinates":  [ -73.7944339,40.7719198 ]
     },
     "properties": {
     "FIELD1":94,
@@ -3074,7 +3012,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -87.72886319999999,43.7641097 ]
+       "coordinates":  [ -87.7288632,43.7641097 ]
     },
     "properties": {
     "FIELD1":99,
@@ -3229,7 +3167,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -74.22483369999999,40.3964529 ]
+       "coordinates":  [ -74.2248337,40.3964529 ]
     },
     "properties": {
     "FIELD1":104,
@@ -3322,7 +3260,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -74.03398729999999,40.71829839999999 ]
+       "coordinates":  [ -74.0339873,40.7182984 ]
     },
     "properties": {
     "FIELD1":107,
@@ -3632,7 +3570,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -86.90467699999999,40.437043 ]
+       "coordinates":  [ -86.904677,40.437043 ]
     },
     "properties": {
     "FIELD1":117,
