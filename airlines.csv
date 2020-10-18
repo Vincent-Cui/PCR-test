@@ -1,8 +1,8 @@
-﻿code,website
-MU,https://www.ceair.com
-JD,https://www.jdair.net
-SK,https://www.flysas.com
-LX,https://www.swissair.com
-MF,https://www.xiamenair.com
-OZ,https://www.flyasiana.com
-ZH,https://www.shenzhenair.com
+﻿name,code,website
+China Eastern,MU,https://www.ceair.com
+Capital Airlines,JD,https://www.jdair.net
+SAS,SK,https://www.flysas.com
+Swiss Air,LX,https://www.swissair.com
+Xiamen Airlines,MF,https://www.xiamenair.com
+Asiana Airlines,OZ,https://www.flyasiana.com
+Shenzhen Airlines,ZH,https://www.shenzhenair.com
